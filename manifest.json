@@ -1,6 +1,6 @@
 {
   "schemaVersion": "faith.promo-microsite.v1",
-  "generatedAt": "2026-06-27T10:12:22.815165+00:00",
+  "generatedAt": "2026-06-27T10:20:42.114003+00:00",
   "liveWrites": false,
   "networkWrites": false,
   "baseUrl": "https://thefayth.github.io/faith-ai-systems-portfolio/",
@@ -33,6 +33,13 @@
       "html": "scope-request.html",
       "source": "business-development/scope-request.md",
       "url": "https://thefayth.github.io/faith-ai-systems-portfolio/scope-request.html"
+    },
+    {
+      "key": "referral-introduction-kit",
+      "title": "Referral And Introduction Kit",
+      "html": "referral-introduction-kit.html",
+      "source": "business-development/referral-introduction-kit.md",
+      "url": "https://thefayth.github.io/faith-ai-systems-portfolio/referral-introduction-kit.html"
     },
     {
       "key": "investor-partner-brief",

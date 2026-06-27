@@ -9,6 +9,7 @@ This repository/site is a promotional public surface. It does not include privat
 - [Faith Cheltenham AI Systems Portfolio](index.html)
 - [Quote-First Offers](offers.html)
 - [Request Scope](scope-request.html)
+- [Referral And Introduction Kit](referral-introduction-kit.html)
 - [Investor And Partner Brief](investor-partner-brief.html)
 - [Work With Faith](work-with-faith.html)
 - [Proof And Boundaries](proof-and-boundaries.html)
