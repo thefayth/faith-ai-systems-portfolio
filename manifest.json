@@ -1,6 +1,6 @@
 {
   "schemaVersion": "faith.promo-microsite.v1",
-  "generatedAt": "2026-06-27T10:20:42.114003+00:00",
+  "generatedAt": "2026-06-27T10:27:30.934015+00:00",
   "liveWrites": false,
   "networkWrites": false,
   "baseUrl": "https://thefayth.github.io/faith-ai-systems-portfolio/",
@@ -47,6 +47,13 @@
       "html": "investor-partner-brief.html",
       "source": "business-development/investor-partner-brief.md",
       "url": "https://thefayth.github.io/faith-ai-systems-portfolio/investor-partner-brief.html"
+    },
+    {
+      "key": "public-proof-index",
+      "title": "Public Proof Index",
+      "html": "public-proof-index.html",
+      "source": "business-development/public-proof-index.md",
+      "url": "https://thefayth.github.io/faith-ai-systems-portfolio/public-proof-index.html"
     },
     {
       "key": "work-with-faith",
