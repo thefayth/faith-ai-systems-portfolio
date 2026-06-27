@@ -12,6 +12,11 @@ This repository/site is a promotional public surface. It does not include privat
 - [TheFAYTH File Type](thefayth-file-type.html)
 - [Fantasia](fantasia.html)
 - [Project Intake](intake.html)
+- [AI Website Visual Cleanup](ai-website-visual-cleanup.html)
+- [GitHub / Public Surface Packaging](github-public-surface-packaging.html)
+- [AI Brand System Audit](ai-brand-system-audit.html)
+- [Local AI Workflow Setup](local-ai-workflow-setup.html)
+- [Protected File / Provenance Consulting](protected-file-provenance-consulting.html)
 
 ## Contact
 

@@ -1,6 +1,6 @@
 {
   "schemaVersion": "faith.promo-microsite.v1",
-  "generatedAt": "2026-06-27T09:39:11.186362+00:00",
+  "generatedAt": "2026-06-27T09:45:53.033100+00:00",
   "liveWrites": false,
   "networkWrites": false,
   "contactUrl": "https://faithcheltenham.com/contact/",
@@ -47,6 +47,68 @@
       "title": "Project Intake",
       "html": "intake.html",
       "source": "business-development/intake/project-intake-questionnaire.md"
+    },
+    {
+      "key": "ai-website-visual-cleanup",
+      "title": "AI Website Visual Cleanup",
+      "html": "ai-website-visual-cleanup.html",
+      "source": "business-development/offers/ai-website-visual-cleanup.md"
+    },
+    {
+      "key": "github-public-surface-packaging",
+      "title": "GitHub / Public Surface Packaging",
+      "html": "github-public-surface-packaging.html",
+      "source": "business-development/offers/github-public-surface-packaging.md"
+    },
+    {
+      "key": "ai-brand-system-audit",
+      "title": "AI Brand System Audit",
+      "html": "ai-brand-system-audit.html",
+      "source": "business-development/offers/ai-brand-system-audit.md"
+    },
+    {
+      "key": "local-ai-workflow-setup",
+      "title": "Local AI Workflow Setup",
+      "html": "local-ai-workflow-setup.html",
+      "source": "business-development/offers/local-ai-workflow-setup.md"
+    },
+    {
+      "key": "protected-file-provenance-consulting",
+      "title": "Protected File / Provenance Consulting",
+      "html": "protected-file-provenance-consulting.html",
+      "source": "business-development/offers/protected-file-provenance-consulting.md"
+    }
+  ],
+  "offerPages": [
+    {
+      "key": "ai-website-visual-cleanup",
+      "title": "AI Website Visual Cleanup",
+      "html": "ai-website-visual-cleanup.html",
+      "source": "business-development/offers/ai-website-visual-cleanup.md"
+    },
+    {
+      "key": "github-public-surface-packaging",
+      "title": "GitHub / Public Surface Packaging",
+      "html": "github-public-surface-packaging.html",
+      "source": "business-development/offers/github-public-surface-packaging.md"
+    },
+    {
+      "key": "ai-brand-system-audit",
+      "title": "AI Brand System Audit",
+      "html": "ai-brand-system-audit.html",
+      "source": "business-development/offers/ai-brand-system-audit.md"
+    },
+    {
+      "key": "local-ai-workflow-setup",
+      "title": "Local AI Workflow Setup",
+      "html": "local-ai-workflow-setup.html",
+      "source": "business-development/offers/local-ai-workflow-setup.md"
+    },
+    {
+      "key": "protected-file-provenance-consulting",
+      "title": "Protected File / Provenance Consulting",
+      "html": "protected-file-provenance-consulting.html",
+      "source": "business-development/offers/protected-file-provenance-consulting.md"
     }
   ],
   "requiredFiles": [
