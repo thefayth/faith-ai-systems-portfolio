@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://thefayth.github.io/faith-ai-systems-portfolio/sitemap.xml

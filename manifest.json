@@ -1,8 +1,9 @@
 {
   "schemaVersion": "faith.promo-microsite.v1",
-  "generatedAt": "2026-06-27T10:00:45.225004+00:00",
+  "generatedAt": "2026-06-27T10:12:22.815165+00:00",
   "liveWrites": false,
   "networkWrites": false,
+  "baseUrl": "https://thefayth.github.io/faith-ai-systems-portfolio/",
   "contactUrl": "https://faithcheltenham.com/contact/",
   "deployment": {
     "status": "local-ready",
@@ -16,91 +17,106 @@
       "key": "index",
       "title": "Faith Cheltenham AI Systems Portfolio",
       "html": "index.html",
-      "source": "business-development/one-pagers/faith-cheltenham-ai-systems-portfolio.md"
+      "source": "business-development/one-pagers/faith-cheltenham-ai-systems-portfolio.md",
+      "url": "https://thefayth.github.io/faith-ai-systems-portfolio/"
     },
     {
       "key": "offers",
       "title": "Quote-First Offers",
       "html": "offers.html",
-      "source": "business-development/offer-catalog.md"
+      "source": "business-development/offer-catalog.md",
+      "url": "https://thefayth.github.io/faith-ai-systems-portfolio/offers.html"
     },
     {
       "key": "scope-request",
       "title": "Request Scope",
       "html": "scope-request.html",
-      "source": "business-development/scope-request.md"
+      "source": "business-development/scope-request.md",
+      "url": "https://thefayth.github.io/faith-ai-systems-portfolio/scope-request.html"
     },
     {
       "key": "investor-partner-brief",
       "title": "Investor And Partner Brief",
       "html": "investor-partner-brief.html",
-      "source": "business-development/investor-partner-brief.md"
+      "source": "business-development/investor-partner-brief.md",
+      "url": "https://thefayth.github.io/faith-ai-systems-portfolio/investor-partner-brief.html"
     },
     {
       "key": "work-with-faith",
       "title": "Work With Faith",
       "html": "work-with-faith.html",
-      "source": "business-development/website/work-with-faith.md"
+      "source": "business-development/website/work-with-faith.md",
+      "url": "https://thefayth.github.io/faith-ai-systems-portfolio/work-with-faith.html"
     },
     {
       "key": "proof-and-boundaries",
       "title": "Proof And Boundaries",
       "html": "proof-and-boundaries.html",
-      "source": "business-development/proof-and-boundaries.md"
+      "source": "business-development/proof-and-boundaries.md",
+      "url": "https://thefayth.github.io/faith-ai-systems-portfolio/proof-and-boundaries.html"
     },
     {
       "key": "fve",
       "title": "TheFAYTH Visual Empire",
       "html": "fve.html",
-      "source": "business-development/one-pagers/thefayth-visual-empire.md"
+      "source": "business-development/one-pagers/thefayth-visual-empire.md",
+      "url": "https://thefayth.github.io/faith-ai-systems-portfolio/fve.html"
     },
     {
       "key": "thefayth-file-type",
       "title": "TheFAYTH File Type",
       "html": "thefayth-file-type.html",
-      "source": "business-development/one-pagers/thefayth-file-type.md"
+      "source": "business-development/one-pagers/thefayth-file-type.md",
+      "url": "https://thefayth.github.io/faith-ai-systems-portfolio/thefayth-file-type.html"
     },
     {
       "key": "fantasia",
       "title": "Fantasia",
       "html": "fantasia.html",
-      "source": "business-development/one-pagers/fantasia.md"
+      "source": "business-development/one-pagers/fantasia.md",
+      "url": "https://thefayth.github.io/faith-ai-systems-portfolio/fantasia.html"
     },
     {
       "key": "intake",
       "title": "Project Intake",
       "html": "intake.html",
-      "source": "business-development/intake/project-intake-questionnaire.md"
+      "source": "business-development/intake/project-intake-questionnaire.md",
+      "url": "https://thefayth.github.io/faith-ai-systems-portfolio/intake.html"
     },
     {
       "key": "ai-website-visual-cleanup",
       "title": "AI Website Visual Cleanup",
       "html": "ai-website-visual-cleanup.html",
-      "source": "business-development/offers/ai-website-visual-cleanup.md"
+      "source": "business-development/offers/ai-website-visual-cleanup.md",
+      "url": "https://thefayth.github.io/faith-ai-systems-portfolio/ai-website-visual-cleanup.html"
     },
     {
       "key": "github-public-surface-packaging",
       "title": "GitHub / Public Surface Packaging",
       "html": "github-public-surface-packaging.html",
-      "source": "business-development/offers/github-public-surface-packaging.md"
+      "source": "business-development/offers/github-public-surface-packaging.md",
+      "url": "https://thefayth.github.io/faith-ai-systems-portfolio/github-public-surface-packaging.html"
     },
     {
       "key": "ai-brand-system-audit",
       "title": "AI Brand System Audit",
       "html": "ai-brand-system-audit.html",
-      "source": "business-development/offers/ai-brand-system-audit.md"
+      "source": "business-development/offers/ai-brand-system-audit.md",
+      "url": "https://thefayth.github.io/faith-ai-systems-portfolio/ai-brand-system-audit.html"
     },
     {
       "key": "local-ai-workflow-setup",
       "title": "Local AI Workflow Setup",
       "html": "local-ai-workflow-setup.html",
-      "source": "business-development/offers/local-ai-workflow-setup.md"
+      "source": "business-development/offers/local-ai-workflow-setup.md",
+      "url": "https://thefayth.github.io/faith-ai-systems-portfolio/local-ai-workflow-setup.html"
     },
     {
       "key": "protected-file-provenance-consulting",
       "title": "Protected File / Provenance Consulting",
       "html": "protected-file-provenance-consulting.html",
-      "source": "business-development/offers/protected-file-provenance-consulting.md"
+      "source": "business-development/offers/protected-file-provenance-consulting.md",
+      "url": "https://thefayth.github.io/faith-ai-systems-portfolio/protected-file-provenance-consulting.html"
     }
   ],
   "offerPages": [
@@ -139,6 +155,8 @@
     "index.html",
     "assets/site.css",
     ".nojekyll",
-    "README.md"
+    "README.md",
+    "sitemap.xml",
+    "robots.txt"
   ]
 }

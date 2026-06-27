@@ -26,6 +26,8 @@ This repository/site is a promotional public surface. It does not include privat
 
 Request a scoped project: https://faithcheltenham.com/contact/
 
+Sitemap: https://thefayth.github.io/faith-ai-systems-portfolio/sitemap.xml
+
 ## Ownership
 
 Copyright 2026 XXYYZZ Society LLC and Faith Cheltenham. All rights reserved.
