@@ -1,6 +1,6 @@
 {
   "schemaVersion": "faith.promo-microsite.v1",
-  "generatedAt": "2026-06-27T10:27:30.934015+00:00",
+  "generatedAt": "2026-06-27T10:33:46.591233+00:00",
   "liveWrites": false,
   "networkWrites": false,
   "baseUrl": "https://thefayth.github.io/faith-ai-systems-portfolio/",
@@ -26,6 +26,13 @@
       "html": "offers.html",
       "source": "business-development/offer-catalog.md",
       "url": "https://thefayth.github.io/faith-ai-systems-portfolio/offers.html"
+    },
+    {
+      "key": "pilot-sprint-menu",
+      "title": "Pilot Sprint Menu",
+      "html": "pilot-sprint-menu.html",
+      "source": "business-development/pilot-sprint-menu.md",
+      "url": "https://thefayth.github.io/faith-ai-systems-portfolio/pilot-sprint-menu.html"
     },
     {
       "key": "scope-request",
