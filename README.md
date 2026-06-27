@@ -8,6 +8,8 @@ This repository/site is a promotional public surface. It does not include privat
 
 - [Faith Cheltenham AI Systems Portfolio](index.html)
 - [Quote-First Offers](offers.html)
+- [Work With Faith](work-with-faith.html)
+- [Proof And Boundaries](proof-and-boundaries.html)
 - [TheFAYTH Visual Empire](fve.html)
 - [TheFAYTH File Type](thefayth-file-type.html)
 - [Fantasia](fantasia.html)
