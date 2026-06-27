@@ -1,6 +1,6 @@
 {
   "schemaVersion": "faith.promo-microsite.v1",
-  "generatedAt": "2026-06-27T10:33:46.591233+00:00",
+  "generatedAt": "2026-06-27T10:40:15.079173+00:00",
   "liveWrites": false,
   "networkWrites": false,
   "baseUrl": "https://thefayth.github.io/faith-ai-systems-portfolio/",
@@ -33,6 +33,13 @@
       "html": "pilot-sprint-menu.html",
       "source": "business-development/pilot-sprint-menu.md",
       "url": "https://thefayth.github.io/faith-ai-systems-portfolio/pilot-sprint-menu.html"
+    },
+    {
+      "key": "buyer-faq",
+      "title": "Buyer FAQ",
+      "html": "buyer-faq.html",
+      "source": "business-development/buyer-faq.md",
+      "url": "https://thefayth.github.io/faith-ai-systems-portfolio/buyer-faq.html"
     },
     {
       "key": "scope-request",
