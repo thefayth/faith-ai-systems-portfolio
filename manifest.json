@@ -1,6 +1,6 @@
 {
   "schemaVersion": "faith.promo-microsite.v1",
-  "generatedAt": "2026-06-27T09:49:32.213011+00:00",
+  "generatedAt": "2026-06-27T10:00:45.225004+00:00",
   "liveWrites": false,
   "networkWrites": false,
   "contactUrl": "https://faithcheltenham.com/contact/",
@@ -23,6 +23,18 @@
       "title": "Quote-First Offers",
       "html": "offers.html",
       "source": "business-development/offer-catalog.md"
+    },
+    {
+      "key": "scope-request",
+      "title": "Request Scope",
+      "html": "scope-request.html",
+      "source": "business-development/scope-request.md"
+    },
+    {
+      "key": "investor-partner-brief",
+      "title": "Investor And Partner Brief",
+      "html": "investor-partner-brief.html",
+      "source": "business-development/investor-partner-brief.md"
     },
     {
       "key": "work-with-faith",
