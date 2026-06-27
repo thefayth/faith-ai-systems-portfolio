@@ -1,0 +1,58 @@
+{
+  "schemaVersion": "faith.promo-microsite.v1",
+  "generatedAt": "2026-06-27T09:34:18.649116+00:00",
+  "liveWrites": false,
+  "networkWrites": false,
+  "contactUrl": "https://faithcheltenham.com/contact/",
+  "deployment": {
+    "status": "local-ready",
+    "notes": [
+      "Static files can be deployed to GitHub Pages, Netlify, Vercel, or copied into WordPress after review.",
+      "Do not publish private source, credentials, rollback snapshots, signed URLs, or customer data."
+    ]
+  },
+  "pages": [
+    {
+      "key": "index",
+      "title": "Faith Cheltenham AI Systems Portfolio",
+      "html": "index.html",
+      "source": "business-development/one-pagers/faith-cheltenham-ai-systems-portfolio.md"
+    },
+    {
+      "key": "offers",
+      "title": "Quote-First Offers",
+      "html": "offers.html",
+      "source": "business-development/offer-catalog.md"
+    },
+    {
+      "key": "fve",
+      "title": "TheFAYTH Visual Empire",
+      "html": "fve.html",
+      "source": "business-development/one-pagers/thefayth-visual-empire.md"
+    },
+    {
+      "key": "thefayth-file-type",
+      "title": "TheFAYTH File Type",
+      "html": "thefayth-file-type.html",
+      "source": "business-development/one-pagers/thefayth-file-type.md"
+    },
+    {
+      "key": "fantasia",
+      "title": "Fantasia",
+      "html": "fantasia.html",
+      "source": "business-development/one-pagers/fantasia.md"
+    },
+    {
+      "key": "intake",
+      "title": "Project Intake",
+      "html": "intake.html",
+      "source": "business-development/intake/project-intake-questionnaire.md"
+    }
+  ],
+  "requiredFiles": [
+    "index.html",
+    "assets/site.css",
+    ".nojekyll",
+    "README.md"
+  ]
+}
