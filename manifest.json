@@ -1,6 +1,6 @@
 {
   "schemaVersion": "faith.promo-microsite.v1",
-  "generatedAt": "2026-06-27T10:40:15.079173+00:00",
+  "generatedAt": "2026-06-27T10:45:45.296634+00:00",
   "liveWrites": false,
   "networkWrites": false,
   "baseUrl": "https://thefayth.github.io/faith-ai-systems-portfolio/",
@@ -40,6 +40,13 @@
       "html": "buyer-faq.html",
       "source": "business-development/buyer-faq.md",
       "url": "https://thefayth.github.io/faith-ai-systems-portfolio/buyer-faq.html"
+    },
+    {
+      "key": "sample-deliverables",
+      "title": "Sample Deliverables",
+      "html": "sample-deliverables.html",
+      "source": "business-development/sample-deliverables.md",
+      "url": "https://thefayth.github.io/faith-ai-systems-portfolio/sample-deliverables.html"
     },
     {
       "key": "scope-request",
