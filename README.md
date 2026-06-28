@@ -15,6 +15,7 @@ This repository/site is a promotional public surface. It does not include privat
 - [Opportunity Router](opportunity-router.html)
 - [Referral And Introduction Kit](referral-introduction-kit.html)
 - [Investor And Partner Brief](investor-partner-brief.html)
+- [Licensing And Partnership Paths](licensing-and-partnership-paths.html)
 - [Public Proof Index](public-proof-index.html)
 - [Public Proof Snapshots](public-proof-snapshots.html)
 - [Prospect Packet](prospect-packet.html)

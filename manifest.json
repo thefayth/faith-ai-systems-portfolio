@@ -1,6 +1,6 @@
 {
   "schemaVersion": "faith.promo-microsite.v1",
-  "generatedAt": "2026-06-28T08:28:49.942258+00:00",
+  "generatedAt": "2026-06-28T08:53:56.216943+00:00",
   "liveWrites": false,
   "networkWrites": false,
   "baseUrl": "https://thefayth.github.io/faith-ai-systems-portfolio/",
@@ -75,6 +75,13 @@
       "html": "investor-partner-brief.html",
       "source": "business-development/investor-partner-brief.md",
       "url": "https://thefayth.github.io/faith-ai-systems-portfolio/investor-partner-brief.html"
+    },
+    {
+      "key": "licensing-and-partnership-paths",
+      "title": "Licensing And Partnership Paths",
+      "html": "licensing-and-partnership-paths.html",
+      "source": "business-development/licensing-and-partnership-paths.md",
+      "url": "https://thefayth.github.io/faith-ai-systems-portfolio/licensing-and-partnership-paths.html"
     },
     {
       "key": "public-proof-index",
@@ -219,10 +226,10 @@
       "label": "Faith AI Systems public-safe prospect packet",
       "path": "downloads/faith-ai-systems-prospect-pack.zip",
       "url": "https://thefayth.github.io/faith-ai-systems-portfolio/downloads/faith-ai-systems-prospect-pack.zip",
-      "bytes": 105636,
-      "sha256": "9901f6f9ac43d4dbd5bfd9049dd9d0123accfb4bd249055afeff3e1a5966dd4a",
-      "sourceZip": "business-development/prospect-packet/generated/faith-ai-systems-prospect-pack-20260628-082156.zip",
-      "sourceZipSha256": "9901f6f9ac43d4dbd5bfd9049dd9d0123accfb4bd249055afeff3e1a5966dd4a",
+      "bytes": 111410,
+      "sha256": "e6136784f0e7503806f574b2139b1c8b08517e4505774bac7fe04ed8677c691c",
+      "sourceZip": "business-development/prospect-packet/generated/faith-ai-systems-prospect-pack-20260628-085354.zip",
+      "sourceZipSha256": "e6136784f0e7503806f574b2139b1c8b08517e4505774bac7fe04ed8677c691c",
       "sourceReceipt": "business-development/prospect-packet/prospect-packet.json",
       "visibility": "public-safe-prospect-packet"
     }
