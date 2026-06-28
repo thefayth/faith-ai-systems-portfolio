@@ -16,6 +16,7 @@ This repository/site is a promotional public surface. It does not include privat
 - [Investor And Partner Brief](investor-partner-brief.html)
 - [Public Proof Index](public-proof-index.html)
 - [Prospect Packet](prospect-packet.html)
+- [Share / Send Kit](share-send-kit.html)
 - [Work With Faith](work-with-faith.html)
 - [Proof And Boundaries](proof-and-boundaries.html)
 - [TheFAYTH Visual Empire](fve.html)
