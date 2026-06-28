@@ -1,6 +1,6 @@
 {
   "schemaVersion": "faith.promo-microsite.v1",
-  "generatedAt": "2026-06-28T09:03:03.378157+00:00",
+  "generatedAt": "2026-06-28T10:24:36.149276+00:00",
   "liveWrites": false,
   "networkWrites": false,
   "baseUrl": "https://thefayth.github.io/faith-ai-systems-portfolio/",
@@ -40,6 +40,13 @@
       "html": "buyer-faq.html",
       "source": "business-development/buyer-faq.md",
       "url": "https://thefayth.github.io/faith-ai-systems-portfolio/buyer-faq.html"
+    },
+    {
+      "key": "buyer-trust-matrix",
+      "title": "Buyer Trust Matrix",
+      "html": "buyer-trust-matrix.html",
+      "source": "business-development/buyer-trust-matrix.md",
+      "url": "https://thefayth.github.io/faith-ai-systems-portfolio/buyer-trust-matrix.html"
     },
     {
       "key": "sample-deliverables",
@@ -226,10 +233,10 @@
       "label": "Faith AI Systems public-safe prospect packet",
       "path": "downloads/faith-ai-systems-prospect-pack.zip",
       "url": "https://thefayth.github.io/faith-ai-systems-portfolio/downloads/faith-ai-systems-prospect-pack.zip",
-      "bytes": 111410,
-      "sha256": "6af9808b5a4b62dd7c33405891bbbd19db719163fb127d17298008afb5d4141a",
-      "sourceZip": "business-development/prospect-packet/generated/faith-ai-systems-prospect-pack-20260628-090255.zip",
-      "sourceZipSha256": "6af9808b5a4b62dd7c33405891bbbd19db719163fb127d17298008afb5d4141a",
+      "bytes": 117704,
+      "sha256": "0eb2db6690124d1be1118f71a18f17837e1d141ea0727fddb9e913a23dcb0348",
+      "sourceZip": "business-development/prospect-packet/generated/faith-ai-systems-prospect-pack-20260628-102407.zip",
+      "sourceZipSha256": "0eb2db6690124d1be1118f71a18f17837e1d141ea0727fddb9e913a23dcb0348",
       "sourceReceipt": "business-development/prospect-packet/prospect-packet.json",
       "visibility": "public-safe-prospect-packet"
     }

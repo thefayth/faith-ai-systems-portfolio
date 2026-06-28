@@ -10,6 +10,7 @@ This repository/site is a promotional public surface. It does not include privat
 - [Quote-First Offers](offers.html)
 - [Pilot Sprint Menu](pilot-sprint-menu.html)
 - [Buyer FAQ](buyer-faq.html)
+- [Buyer Trust Matrix](buyer-trust-matrix.html)
 - [Sample Deliverables](sample-deliverables.html)
 - [Request Scope](scope-request.html)
 - [Opportunity Router](opportunity-router.html)

@@ -98,6 +98,19 @@ article h1 { font-size: 42px; line-height: 1.05; }
 article h2 { margin-top: 30px; }
 article h3 { margin-top: 24px; }
 code { background: #f0e7dd; padding: 2px 5px; }
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 22px 0;
+  font-size: 14px;
+}
+th, td {
+  border: 1px solid var(--line);
+  padding: 10px 12px;
+  vertical-align: top;
+  text-align: left;
+}
+th { background: #f7efe5; color: var(--teal); }
 footer {
   border-top: 1px solid var(--line);
   margin-top: 48px;
