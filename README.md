@@ -12,6 +12,7 @@ This repository/site is a promotional public surface. It does not include privat
 - [Buyer FAQ](buyer-faq.html)
 - [Sample Deliverables](sample-deliverables.html)
 - [Request Scope](scope-request.html)
+- [Opportunity Router](opportunity-router.html)
 - [Referral And Introduction Kit](referral-introduction-kit.html)
 - [Investor And Partner Brief](investor-partner-brief.html)
 - [Public Proof Index](public-proof-index.html)
