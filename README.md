@@ -15,6 +15,7 @@ This repository/site is a promotional public surface. It does not include privat
 - [Referral And Introduction Kit](referral-introduction-kit.html)
 - [Investor And Partner Brief](investor-partner-brief.html)
 - [Public Proof Index](public-proof-index.html)
+- [Public Proof Snapshots](public-proof-snapshots.html)
 - [Prospect Packet](prospect-packet.html)
 - [Share / Send Kit](share-send-kit.html)
 - [Work With Faith](work-with-faith.html)
