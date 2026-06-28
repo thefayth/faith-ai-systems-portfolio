@@ -1,6 +1,6 @@
 {
   "schemaVersion": "faith.promo-microsite.v1",
-  "generatedAt": "2026-06-27T10:45:45.296634+00:00",
+  "generatedAt": "2026-06-27T11:37:54.311715+00:00",
   "liveWrites": false,
   "networkWrites": false,
   "baseUrl": "https://thefayth.github.io/faith-ai-systems-portfolio/",
@@ -75,6 +75,13 @@
       "html": "public-proof-index.html",
       "source": "business-development/public-proof-index.md",
       "url": "https://thefayth.github.io/faith-ai-systems-portfolio/public-proof-index.html"
+    },
+    {
+      "key": "prospect-packet",
+      "title": "Prospect Packet",
+      "html": "prospect-packet.html",
+      "source": "business-development/prospect-packet-public.md",
+      "url": "https://thefayth.github.io/faith-ai-systems-portfolio/prospect-packet.html"
     },
     {
       "key": "work-with-faith",
@@ -186,12 +193,27 @@
       "source": "business-development/offers/protected-file-provenance-consulting.md"
     }
   ],
+  "downloads": [
+    {
+      "label": "Faith AI Systems public-safe prospect packet",
+      "path": "downloads/faith-ai-systems-prospect-pack.zip",
+      "url": "https://thefayth.github.io/faith-ai-systems-portfolio/downloads/faith-ai-systems-prospect-pack.zip",
+      "bytes": 97702,
+      "sha256": "adf8de407b0e1c6267a14ba291de294924effec5bd615b66824f531fc1631c3d",
+      "sourceZip": "business-development/prospect-packet/generated/faith-ai-systems-prospect-pack-20260627-113752.zip",
+      "sourceZipSha256": "adf8de407b0e1c6267a14ba291de294924effec5bd615b66824f531fc1631c3d",
+      "sourceReceipt": "business-development/prospect-packet/prospect-packet.json",
+      "visibility": "public-safe-prospect-packet"
+    }
+  ],
   "requiredFiles": [
     "index.html",
     "assets/site.css",
     ".nojekyll",
     "README.md",
     "sitemap.xml",
-    "robots.txt"
+    "robots.txt",
+    "downloads/faith-ai-systems-prospect-pack.zip",
+    "downloads/prospect-packet-receipt.json"
   ]
 }
