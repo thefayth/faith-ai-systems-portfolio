@@ -1,6 +1,6 @@
 {
   "schemaVersion": "faith.promo-microsite.v1",
-  "generatedAt": "2026-06-29T08:08:21.858998+00:00",
+  "generatedAt": "2026-06-29T08:13:49.795018+00:00",
   "liveWrites": false,
   "networkWrites": false,
   "baseUrl": "https://thefayth.github.io/faith-ai-systems-portfolio/",
@@ -235,7 +235,8 @@
     "selectedAssets": [
       {
         "assetId": "ai-screenwriting-public-heroes-story-arena-microsite-assets-illustrations-canva-editorial-awards-285d0f05c9",
-        "sourcePath": "C:/Users/faith/Documents/_X/_2023-2024_XXYYZZ/_Projects/_AI_SCREENWRITING/wordpress/story-arena-microsite/assets/illustrations/canva-editorial-awards.webp",
+        "sourcePath": "local-provenance/ai-screenwriting-public-heroes/canva-editorial-awards.webp",
+        "sourcePathRedacted": true,
         "copiedPath": "assets/media/ai-screenwriting-public-heroes-story-arena-microsite-assets-illustrations-canva-editorial-awards-285d0f05c9.webp",
         "sha256": "285d0f05c907cb853cf550358d14e0ab2a7f386ab20cdf0fab9367019521723b",
         "width": 1800,
@@ -247,7 +248,8 @@
       },
       {
         "assetId": "ai-screenwriting-public-heroes-story-arena-microsite-assets-illustrations-canva-editorial-hero-68f6dc2369",
-        "sourcePath": "C:/Users/faith/Documents/_X/_2023-2024_XXYYZZ/_Projects/_AI_SCREENWRITING/wordpress/story-arena-microsite/assets/illustrations/canva-editorial-hero.webp",
+        "sourcePath": "local-provenance/ai-screenwriting-public-heroes/canva-editorial-hero.webp",
+        "sourcePathRedacted": true,
         "copiedPath": "assets/media/ai-screenwriting-public-heroes-story-arena-microsite-assets-illustrations-canva-editorial-hero-68f6dc2369.webp",
         "sha256": "68f6dc236982ca51334b2de3fd845604bca9d05f9f5d2cc99250d13533976144",
         "width": 1800,
@@ -259,7 +261,8 @@
       },
       {
         "assetId": "ai-screenwriting-public-heroes-story-arena-microsite-assets-illustrations-canva-editorial-poster-lab-cc0f475134",
-        "sourcePath": "C:/Users/faith/Documents/_X/_2023-2024_XXYYZZ/_Projects/_AI_SCREENWRITING/wordpress/story-arena-microsite/assets/illustrations/canva-editorial-poster-lab.webp",
+        "sourcePath": "local-provenance/ai-screenwriting-public-heroes/canva-editorial-poster-lab.webp",
+        "sourcePathRedacted": true,
         "copiedPath": "assets/media/ai-screenwriting-public-heroes-story-arena-microsite-assets-illustrations-canva-editorial-poster-lab-cc0f475134.webp",
         "sha256": "cc0f47513457ba90efdaa075d8187fc10039dfa5ac40c288ba169d784b460221",
         "width": 1800,
@@ -271,7 +274,8 @@
       },
       {
         "assetId": "ai-screenwriting-public-heroes-story-arena-microsite-assets-illustrations-canva-editorial-vault-5b94699c36",
-        "sourcePath": "C:/Users/faith/Documents/_X/_2023-2024_XXYYZZ/_Projects/_AI_SCREENWRITING/wordpress/story-arena-microsite/assets/illustrations/canva-editorial-vault.webp",
+        "sourcePath": "local-provenance/ai-screenwriting-public-heroes/canva-editorial-vault.webp",
+        "sourcePathRedacted": true,
         "copiedPath": "assets/media/ai-screenwriting-public-heroes-story-arena-microsite-assets-illustrations-canva-editorial-vault-5b94699c36.webp",
         "sha256": "5b94699c36e2d36f29f4aeea59b9086ffebd4d919877d1343f4ea437c31c538a",
         "width": 1800,
@@ -283,7 +287,8 @@
       },
       {
         "assetId": "black2africa-public-heroes-github-public-export-assets-hero-hero-image-4aa716327e",
-        "sourcePath": "C:/Users/faith/Documents/_X/_2023-2024_XXYYZZ/_Projects/black2africa-wordpress/_github_public_export/assets/hero/hero-image.png",
+        "sourcePath": "local-provenance/black2africa-public-heroes/hero-image.png",
+        "sourcePathRedacted": true,
         "copiedPath": "assets/media/black2africa-public-heroes-github-public-export-assets-hero-hero-image-4aa716327e.png",
         "sha256": "4aa716327ec7ddf692237eb69e656084ade5f361e97188616c28d9c12d121513",
         "width": 2400,
@@ -295,7 +300,8 @@
       },
       {
         "assetId": "childrens-internet-public-heroes-github-public-export-assets-gallery-kidsinternet-home-hero-92b29072cd",
-        "sourcePath": "C:/Users/faith/Documents/_X/_2023-2024_XXYYZZ/_Projects/_Childrens_Internet/_github_public_export/assets/gallery/kidsinternet-home-hero.webp",
+        "sourcePath": "local-provenance/childrens-internet-public-heroes/kidsinternet-home-hero.webp",
+        "sourcePathRedacted": true,
         "copiedPath": "assets/media/childrens-internet-public-heroes-github-public-export-assets-gallery-kidsinternet-home-hero-92b29072cd.webp",
         "sha256": "92b29072cde7e49e7b5da6a8d42ff5e4eb364e83f62b83efd5b9136a8a806709",
         "width": 1024,
@@ -307,7 +313,8 @@
       },
       {
         "assetId": "faithcheltenham-curated-heroes-server-rescue-oceanic-assets-20260515-faith-safe-curated-selected-013-faith-cheltenham-portfolio-3bcfb6b3bd",
-        "sourcePath": "C:/Users/faith/Documents/_X/_2023-2024_XXYYZZ/_Projects/_FaithCheltenhamSite/server-rescue/oceanic-assets-20260515-faith-safe-curated/selected/013-faith-cheltenham-portfolio-hero-variant-2-20260401-071205-3bcfb6b3bd.webp",
+        "sourcePath": "local-provenance/faithcheltenham-curated-heroes/013-faith-cheltenham-portfolio-hero-variant-2-20260401-071205-3bcfb6b3bd.webp",
+        "sourcePathRedacted": true,
         "copiedPath": "assets/media/faithcheltenham-curated-heroes-server-rescue-oceanic-assets-20260515-faith-safe-curated-selected-013-faith-cheltenham-portfolio-3bcfb6b3bd.webp",
         "sha256": "3bcfb6b3bde7253d22fd999d782e665aee2b86f70e797e9d7e1a0b896fdc7430",
         "width": 1536,
@@ -319,7 +326,8 @@
       },
       {
         "assetId": "faithcheltenham-curated-heroes-server-rescue-oceanic-assets-20260515-faith-safe-curated-selected-015-faith-cheltenham-portfolio-5753a5a77a",
-        "sourcePath": "C:/Users/faith/Documents/_X/_2023-2024_XXYYZZ/_Projects/_FaithCheltenhamSite/server-rescue/oceanic-assets-20260515-faith-safe-curated/selected/015-faith-cheltenham-portfolio-hero-variant-3-20260401-071257-5753a5a77a.webp",
+        "sourcePath": "local-provenance/faithcheltenham-curated-heroes/015-faith-cheltenham-portfolio-hero-variant-3-20260401-071257-5753a5a77a.webp",
+        "sourcePathRedacted": true,
         "copiedPath": "assets/media/faithcheltenham-curated-heroes-server-rescue-oceanic-assets-20260515-faith-safe-curated-selected-015-faith-cheltenham-portfolio-5753a5a77a.webp",
         "sha256": "5753a5a77a83d6032740e047d5e3579e6fb2fdee5ac39995b8648db8a8ff04a3",
         "width": 1536,
@@ -331,7 +339,8 @@
       },
       {
         "assetId": "faithcheltenham-curated-heroes-server-rescue-oceanic-assets-20260515-faith-safe-curated-selected-034-thankfish-anime-hero-varia-a72d6838fa",
-        "sourcePath": "C:/Users/faith/Documents/_X/_2023-2024_XXYYZZ/_Projects/_FaithCheltenhamSite/server-rescue/oceanic-assets-20260515-faith-safe-curated/selected/034-thankfish-anime-hero-variant-3-20260403-023209-a72d6838fa.webp",
+        "sourcePath": "local-provenance/faithcheltenham-curated-heroes/034-thankfish-anime-hero-variant-3-20260403-023209-a72d6838fa.webp",
+        "sourcePathRedacted": true,
         "copiedPath": "assets/media/faithcheltenham-curated-heroes-server-rescue-oceanic-assets-20260515-faith-safe-curated-selected-034-thankfish-anime-hero-varia-a72d6838fa.webp",
         "sha256": "a72d6838fa52b6d35c660334d94d2559ed02da61bd5b742ec7c5aa0c7969ff10",
         "width": 1536,
@@ -344,6 +353,7 @@
       {
         "assetId": "faithcheltenham-remote-hero-cache-business-development-visual-assets-remote-cache-fantas1a-hero-image-3b68efa403",
         "sourcePath": "business-development/visual-assets/remote-cache/fantas1a-hero-image.png",
+        "sourcePathRedacted": false,
         "copiedPath": "assets/media/faithcheltenham-remote-hero-cache-business-development-visual-assets-remote-cache-fantas1a-hero-image-3b68efa403.png",
         "sha256": "3b68efa403cf9d2adaf286c71125d5964c0d55608c2e34852afb622d1b8038af",
         "width": 1536,
@@ -356,6 +366,7 @@
       {
         "assetId": "faithcheltenham-remote-hero-cache-business-development-visual-assets-remote-cache-page-kids-internet-safety-hero-canva-20260527-06-cdfa283c84",
         "sourcePath": "business-development/visual-assets/remote-cache/page-kids-internet-safety-hero-canva-20260527-063604.png",
+        "sourcePathRedacted": false,
         "copiedPath": "assets/media/faithcheltenham-remote-hero-cache-business-development-visual-assets-remote-cache-page-kids-internet-safety-hero-canva-20260527-06-cdfa283c84.png",
         "sha256": "cdfa283c843619f97262cf32e4f0a57ed10a13b9751e692435d90204ef98699b",
         "width": 1920,
@@ -368,6 +379,7 @@
       {
         "assetId": "faithcheltenham-remote-hero-cache-business-development-visual-assets-remote-cache-page-team-portal-hero-canva-20260527-063715-aede746a91",
         "sourcePath": "business-development/visual-assets/remote-cache/page-team-portal-hero-canva-20260527-063715.png",
+        "sourcePathRedacted": false,
         "copiedPath": "assets/media/faithcheltenham-remote-hero-cache-business-development-visual-assets-remote-cache-page-team-portal-hero-canva-20260527-063715-aede746a91.png",
         "sha256": "aede746a915f08e54538bcdbec2357d685e8a6cb58958d8e10afbc8b0e3efbba",
         "width": 1920,
@@ -380,6 +392,7 @@
       {
         "assetId": "fantasia-public-assets-fantasia-assets-diagrams-workflow-overview-3780a956db",
         "sourcePath": "docs/fantasia/assets/diagrams/workflow-overview.svg",
+        "sourcePathRedacted": false,
         "copiedPath": "assets/media/fantasia-public-assets-fantasia-assets-diagrams-workflow-overview-3780a956db.svg",
         "sha256": "3780a956dbc1d035fb747cfe9f8cc57b56a50231fce3ee2cd18e1a4e70763d20",
         "width": 1280,
@@ -392,6 +405,7 @@
       {
         "assetId": "fantasia-public-assets-fantasia-assets-screenshots-actual-coai-assets-hub-d986d81d6b",
         "sourcePath": "docs/fantasia/assets/screenshots/actual-coai-assets-hub.png",
+        "sourcePathRedacted": false,
         "copiedPath": "assets/media/fantasia-public-assets-fantasia-assets-screenshots-actual-coai-assets-hub-d986d81d6b.png",
         "sha256": "d986d81d6bc28e4cd80496e0e0cdaaf78ca63fb3cdb51ec6523b9ebe11848125",
         "width": 1897,
@@ -404,6 +418,7 @@
       {
         "assetId": "fantasia-public-assets-fantasia-assets-screenshots-actual-desktop-home-50d43dd99e",
         "sourcePath": "docs/fantasia/assets/screenshots/actual-desktop-home.png",
+        "sourcePathRedacted": false,
         "copiedPath": "assets/media/fantasia-public-assets-fantasia-assets-screenshots-actual-desktop-home-50d43dd99e.png",
         "sha256": "50d43dd99e4bd6b23245c329148ef01afc18955f3699373c7159b093fc41396e",
         "width": 1897,
@@ -416,6 +431,7 @@
       {
         "assetId": "fantasia-public-assets-fantasia-assets-social-social-preview-card-1a17d21274",
         "sourcePath": "docs/fantasia/assets/social/social-preview-card.svg",
+        "sourcePathRedacted": false,
         "copiedPath": "assets/media/fantasia-public-assets-fantasia-assets-social-social-preview-card-1a17d21274.svg",
         "sha256": "1a17d2127428c12c6a3037c40ae3495d58fd4a6a94e669d70300e76fda8159f0",
         "width": 1200,
@@ -428,6 +444,7 @@
       {
         "assetId": "fve-final-production-import-ready-generated-final-production-pack-import-ready-faithcheltenham-com-quick-30-layout-preview-cfdf618330",
         "sourcePath": "fayth-visual-engine/generated/final-production-pack/import-ready/faithcheltenham-com__quick-30__layout-preview.png",
+        "sourcePathRedacted": false,
         "copiedPath": "assets/media/fve-final-production-import-ready-generated-final-production-pack-import-ready-faithcheltenham-com-quick-30-layout-preview-cfdf618330.png",
         "sha256": "cfdf618330ffd6843138fd189c6bf5e551f8cdc7a727888df2f9bd27560a4244",
         "width": 1440,
@@ -440,6 +457,7 @@
       {
         "assetId": "fve-final-production-import-ready-generated-final-production-pack-import-ready-faithcheltenham-com-reuse-faithcheltenham-social-sq-b4239d013e",
         "sourcePath": "fayth-visual-engine/generated/final-production-pack/import-ready/faithcheltenham-com__reuse-faithcheltenham__social-square.png",
+        "sourcePathRedacted": false,
         "copiedPath": "assets/media/fve-final-production-import-ready-generated-final-production-pack-import-ready-faithcheltenham-com-reuse-faithcheltenham-social-sq-b4239d013e.png",
         "sha256": "b4239d013ecbacf28cea56064e7a7a53df84362d2134632afc3dc533ff9bf3ad",
         "width": 1200,
@@ -452,6 +470,7 @@
       {
         "assetId": "fve-public-export-github-public-export-assets-banners-github-banner-456f0df3bf",
         "sourcePath": "fayth-visual-engine/_github_public_export/assets/banners/github-banner.png",
+        "sourcePathRedacted": false,
         "copiedPath": "assets/media/fve-public-export-github-public-export-assets-banners-github-banner-456f0df3bf.png",
         "sha256": "456f0df3bfaa8e428ee39a8b305a15b16fc73682f9328197cb7628d9622dce73",
         "width": 1600,
@@ -464,6 +483,7 @@
       {
         "assetId": "fve-public-export-github-public-export-assets-diagrams-public-private-boundary-c2eb240c50",
         "sourcePath": "fayth-visual-engine/_github_public_export/assets/diagrams/public-private-boundary.svg",
+        "sourcePathRedacted": false,
         "copiedPath": "assets/media/fve-public-export-github-public-export-assets-diagrams-public-private-boundary-c2eb240c50.svg",
         "sha256": "c2eb240c506d38110120989d7d4266b6a3e06c6b9b8972b2b5d1ba0994affaa5",
         "width": 1200,
@@ -476,6 +496,7 @@
       {
         "assetId": "fve-public-export-github-public-export-assets-diagrams-workflow-overview-22dd980395",
         "sourcePath": "fayth-visual-engine/_github_public_export/assets/diagrams/workflow-overview.svg",
+        "sourcePathRedacted": false,
         "copiedPath": "assets/media/fve-public-export-github-public-export-assets-diagrams-workflow-overview-22dd980395.svg",
         "sha256": "22dd980395a4996cf50865848e166d64ce1f06803d54de08a045357aedd47a26",
         "width": 1200,
@@ -488,6 +509,7 @@
       {
         "assetId": "fve-public-export-github-public-export-assets-gallery-gallery-01-50d43dd99e",
         "sourcePath": "fayth-visual-engine/_github_public_export/assets/gallery/gallery-01.png",
+        "sourcePathRedacted": false,
         "copiedPath": "assets/media/fve-public-export-github-public-export-assets-gallery-gallery-01-50d43dd99e.png",
         "sha256": "50d43dd99e4bd6b23245c329148ef01afc18955f3699373c7159b093fc41396e",
         "width": 1897,
@@ -500,6 +522,7 @@
       {
         "assetId": "fve-public-export-github-public-export-assets-hero-hero-image-d986d81d6b",
         "sourcePath": "fayth-visual-engine/_github_public_export/assets/hero/hero-image.png",
+        "sourcePathRedacted": false,
         "copiedPath": "assets/media/fve-public-export-github-public-export-assets-hero-hero-image-d986d81d6b.png",
         "sha256": "d986d81d6bc28e4cd80496e0e0cdaaf78ca63fb3cdb51ec6523b9ebe11848125",
         "width": 1897,
@@ -512,6 +535,7 @@
       {
         "assetId": "fve-public-export-github-public-export-assets-social-social-card-25907aff37",
         "sourcePath": "fayth-visual-engine/_github_public_export/assets/social/social-card.png",
+        "sourcePathRedacted": false,
         "copiedPath": "assets/media/fve-public-export-github-public-export-assets-social-social-card-25907aff37.png",
         "sha256": "25907aff3733d610e1fc228c1f66045c584acdf02c0edb2521075e8260b85fa6",
         "width": 1200,
@@ -524,6 +548,7 @@
       {
         "assetId": "thefayth-file-type-public-export-github-public-export-assets-diagrams-workflow-overview-d7f0aa7942",
         "sourcePath": "thefayth-file-type/_github_public_export/assets/diagrams/workflow-overview.svg",
+        "sourcePathRedacted": false,
         "copiedPath": "assets/media/thefayth-file-type-public-export-github-public-export-assets-diagrams-workflow-overview-d7f0aa7942.svg",
         "sha256": "d7f0aa7942efc057d79b1ae92307172a8568ba8af8c5afc9efb55c45bdda246c",
         "width": 1200,
@@ -536,6 +561,7 @@
       {
         "assetId": "thefayth-file-type-public-export-github-public-export-assets-hero-hero-image-91abd1e915",
         "sourcePath": "thefayth-file-type/_github_public_export/assets/hero/hero-image.png",
+        "sourcePathRedacted": false,
         "copiedPath": "assets/media/thefayth-file-type-public-export-github-public-export-assets-hero-hero-image-91abd1e915.png",
         "sha256": "91abd1e9158a7b4fa5ecd4c64d25c364bbc3baa8ae9429d57ec905247df7ed26",
         "width": 1600,
@@ -548,6 +574,7 @@
       {
         "assetId": "thefayth-file-type-public-export-github-public-export-assets-social-social-card-847ba79bba",
         "sourcePath": "thefayth-file-type/_github_public_export/assets/social/social-card.png",
+        "sourcePathRedacted": false,
         "copiedPath": "assets/media/thefayth-file-type-public-export-github-public-export-assets-social-social-card-847ba79bba.png",
         "sha256": "847ba79bba97ad1887758a599443045a356fbbfb212c6b08f30468a14ea96c0c",
         "width": 1200,
