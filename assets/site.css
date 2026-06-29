@@ -119,6 +119,55 @@ h1 {
 .proof strong, .buy-box strong { display: block; color: var(--teal); margin-bottom: 7px; }
 .proof ul, .buy-box ul { padding-left: 18px; margin: 12px 0 0; }
 .proof li, .buy-box li { margin: 6px 0; }
+.hero-panel {
+  display: grid;
+  gap: 14px;
+  min-width: 0;
+}
+.visual-card, .proof-visual {
+  margin: 0;
+  overflow: hidden;
+  border: 1px solid var(--line);
+  background: var(--surface);
+  border-radius: 8px;
+  box-shadow: var(--shadow);
+}
+.visual-card img, .proof-visual img, .card-visual img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+.visual-card img {
+  aspect-ratio: 16 / 10;
+  object-fit: cover;
+  background: #efe8df;
+}
+.proof-visual img {
+  aspect-ratio: 16 / 9;
+  object-fit: contain;
+  background: #f8f2eb;
+}
+.visual-caption {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 10px;
+  padding: 10px 12px;
+  color: var(--muted);
+  font-size: 13px;
+  font-weight: 700;
+}
+.source-chip {
+  display: inline-flex;
+  flex: 0 0 auto;
+  border-radius: 999px;
+  background: #e8f1ef;
+  color: var(--teal);
+  padding: 3px 8px;
+  font-size: 11px;
+  font-weight: 900;
+  text-transform: uppercase;
+}
 .category-strip {
   display: flex;
   gap: 10px;
@@ -164,6 +213,25 @@ h1 {
   color: var(--ink);
   min-width: 0;
 }
+.card-visual {
+  position: relative;
+  overflow: hidden;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  margin: -6px -6px 4px;
+  background: #f8f2eb;
+}
+.card-visual img {
+  aspect-ratio: 16 / 10;
+  object-fit: cover;
+}
+.card-visual .source-chip {
+  position: absolute;
+  left: 10px;
+  bottom: 10px;
+  background: rgba(255, 253, 249, .92);
+  color: var(--teal);
+}
 .catalog-card { display: flex; flex-direction: column; gap: 12px; }
 .catalog-card:hover, .product-card:hover, .trust-card:hover { border-color: #c2a88f; box-shadow: var(--shadow); }
 .badge {
@@ -205,6 +273,12 @@ h1 {
   padding: 16px;
 }
 .quick-compare strong { display: block; color: var(--teal); margin-bottom: 5px; }
+.proof-gallery {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 14px;
+  margin-top: 16px;
+}
 .detail-layout {
   display: grid;
   grid-template-columns: minmax(0, 1fr) 310px;
@@ -250,7 +324,7 @@ footer {
 @media (max-width: 820px) {
   h1 { font-size: 38px; }
   .hero { grid-template-columns: 1fr; padding-top: 28px; }
-  .grid, .shelf, .shelf.two, .quick-compare, .detail-layout { grid-template-columns: 1fr; }
+  .grid, .shelf, .shelf.two, .quick-compare, .detail-layout, .proof-gallery { grid-template-columns: 1fr; }
   nav { align-items: flex-start; padding: 14px 0; flex-direction: column; }
   article { padding: 22px; }
   .navlinks { justify-content: flex-start; }
