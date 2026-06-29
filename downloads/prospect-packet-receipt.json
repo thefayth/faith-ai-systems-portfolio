@@ -1,0 +1,30 @@
+{
+  "schemaVersion": "faith.promo-microsite.download-receipt.v1",
+  "generatedAt": "2026-06-29T10:49:21.711551+00:00",
+  "liveWrites": false,
+  "networkWrites": false,
+  "downloads": [
+    {
+      "label": "Faith AI Systems public-safe prospect packet",
+      "path": "downloads/faith-ai-systems-prospect-pack.zip",
+      "url": "https://thefayth.github.io/faith-ai-systems-portfolio/downloads/faith-ai-systems-prospect-pack.zip",
+      "bytes": 2292345,
+      "sha256": "739fc6465e65d6db9728c2d9850704cc5a3f4abb8a4807357c4b8d0d473cd516",
+      "sourceZip": "business-development/prospect-packet/generated/faith-ai-systems-prospect-pack-20260629-055326.zip",
+      "sourceZipSha256": "739fc6465e65d6db9728c2d9850704cc5a3f4abb8a4807357c4b8d0d473cd516",
+      "sourceReceipt": "business-development/prospect-packet/prospect-packet.json",
+      "visibility": "public-safe-prospect-packet"
+    }
+  ],
+  "excludedPrivateAreas": [
+    "business-development/pricing",
+    "business-development/proposals/generated",
+    "business-development/onboarding/generated",
+    "business-development/lead-tracker.csv",
+    "business-development/lead-pipeline.json",
+    "business-development/outreach/today-outreach-packet.json",
+    "business-development/verification",
+    "business-development/wordpress-ready",
+    "business-development/ops-status.json"
+  ]
+}
