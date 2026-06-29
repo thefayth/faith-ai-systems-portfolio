@@ -1,6 +1,6 @@
 {
   "schemaVersion": "faith.promo-microsite.v1",
-  "generatedAt": "2026-06-29T05:53:57.947602+00:00",
+  "generatedAt": "2026-06-29T08:01:29.001704+00:00",
   "liveWrites": false,
   "networkWrites": false,
   "baseUrl": "https://thefayth.github.io/faith-ai-systems-portfolio/",
@@ -234,6 +234,126 @@
     "pageVisualMap": "business-development/visual-assets/page-visual-map.json",
     "selectedAssets": [
       {
+        "assetId": "ai-screenwriting-public-heroes-story-arena-microsite-assets-illustrations-canva-editorial-hero-68f6dc2369",
+        "sourcePath": "C:/Users/faith/Documents/_X/_2023-2024_XXYYZZ/_Projects/_AI_SCREENWRITING/wordpress/story-arena-microsite/assets/illustrations/canva-editorial-hero.webp",
+        "copiedPath": "assets/media/ai-screenwriting-public-heroes-story-arena-microsite-assets-illustrations-canva-editorial-hero-68f6dc2369.webp",
+        "sha256": "68f6dc236982ca51334b2de3fd845604bca9d05f9f5d2cc99250d13533976144",
+        "width": 1800,
+        "height": 1125,
+        "format": "webp",
+        "family": "ai-screenwriting-public-heroes",
+        "classification": "use-now",
+        "publicSafe": true
+      },
+      {
+        "assetId": "black2africa-public-heroes-github-public-export-assets-hero-hero-image-4aa716327e",
+        "sourcePath": "C:/Users/faith/Documents/_X/_2023-2024_XXYYZZ/_Projects/black2africa-wordpress/_github_public_export/assets/hero/hero-image.png",
+        "copiedPath": "assets/media/black2africa-public-heroes-github-public-export-assets-hero-hero-image-4aa716327e.png",
+        "sha256": "4aa716327ec7ddf692237eb69e656084ade5f361e97188616c28d9c12d121513",
+        "width": 2400,
+        "height": 1350,
+        "format": "png",
+        "family": "black2africa-public-heroes",
+        "classification": "use-now",
+        "publicSafe": true
+      },
+      {
+        "assetId": "childrens-internet-public-heroes-github-public-export-assets-gallery-kidsinternet-home-hero-92b29072cd",
+        "sourcePath": "C:/Users/faith/Documents/_X/_2023-2024_XXYYZZ/_Projects/_Childrens_Internet/_github_public_export/assets/gallery/kidsinternet-home-hero.webp",
+        "copiedPath": "assets/media/childrens-internet-public-heroes-github-public-export-assets-gallery-kidsinternet-home-hero-92b29072cd.webp",
+        "sha256": "92b29072cde7e49e7b5da6a8d42ff5e4eb364e83f62b83efd5b9136a8a806709",
+        "width": 1024,
+        "height": 1536,
+        "format": "webp",
+        "family": "childrens-internet-public-heroes",
+        "classification": "use-now",
+        "publicSafe": true
+      },
+      {
+        "assetId": "faithcheltenham-curated-heroes-server-rescue-oceanic-assets-20260515-faith-safe-curated-selected-015-faith-cheltenham-portfolio-5753a5a77a",
+        "sourcePath": "C:/Users/faith/Documents/_X/_2023-2024_XXYYZZ/_Projects/_FaithCheltenhamSite/server-rescue/oceanic-assets-20260515-faith-safe-curated/selected/015-faith-cheltenham-portfolio-hero-variant-3-20260401-071257-5753a5a77a.webp",
+        "copiedPath": "assets/media/faithcheltenham-curated-heroes-server-rescue-oceanic-assets-20260515-faith-safe-curated-selected-015-faith-cheltenham-portfolio-5753a5a77a.webp",
+        "sha256": "5753a5a77a83d6032740e047d5e3579e6fb2fdee5ac39995b8648db8a8ff04a3",
+        "width": 1536,
+        "height": 1024,
+        "format": "webp",
+        "family": "faithcheltenham-curated-heroes",
+        "classification": "use-now",
+        "publicSafe": true
+      },
+      {
+        "assetId": "faithcheltenham-curated-heroes-server-rescue-oceanic-assets-20260515-faith-safe-curated-selected-035-thankfish-anime-hero-varia-e17f273c35",
+        "sourcePath": "C:/Users/faith/Documents/_X/_2023-2024_XXYYZZ/_Projects/_FaithCheltenhamSite/server-rescue/oceanic-assets-20260515-faith-safe-curated/selected/035-thankfish-anime-hero-variant-4-20260403-023303-e17f273c35.webp",
+        "copiedPath": "assets/media/faithcheltenham-curated-heroes-server-rescue-oceanic-assets-20260515-faith-safe-curated-selected-035-thankfish-anime-hero-varia-e17f273c35.webp",
+        "sha256": "e17f273c3565d9ae27ed853ea0621c28048ec554e110e23c4509f219468e199e",
+        "width": 1536,
+        "height": 1024,
+        "format": "webp",
+        "family": "faithcheltenham-curated-heroes",
+        "classification": "use-now",
+        "publicSafe": true
+      },
+      {
+        "assetId": "faithcheltenham-curated-heroes-server-rescue-oceanic-assets-20260515-faith-safe-curated-selected-038-kidsinternet-home-hero-sto-27695d663c",
+        "sourcePath": "C:/Users/faith/Documents/_X/_2023-2024_XXYYZZ/_Projects/_FaithCheltenhamSite/server-rescue/oceanic-assets-20260515-faith-safe-curated/selected/038-kidsinternet-home-hero-storybook-01-27695d663c.png",
+        "copiedPath": "assets/media/faithcheltenham-curated-heroes-server-rescue-oceanic-assets-20260515-faith-safe-curated-selected-038-kidsinternet-home-hero-sto-27695d663c.png",
+        "sha256": "27695d663c5de650090d9394fe6282693779127008dcb166872b729ea7a9e06b",
+        "width": 1024,
+        "height": 1536,
+        "format": "png",
+        "family": "faithcheltenham-curated-heroes",
+        "classification": "use-now",
+        "publicSafe": true
+      },
+      {
+        "assetId": "faithcheltenham-live-hero-audit-generated-audits-image-quality-compare-live-home-hero-canva-f4c98bf328",
+        "sourcePath": "fayth-visual-engine/generated/audits/image-quality-compare/live-home-hero-canva.png",
+        "copiedPath": "assets/media/faithcheltenham-live-hero-audit-generated-audits-image-quality-compare-live-home-hero-canva-f4c98bf328.png",
+        "sha256": "f4c98bf3288c748e6be19dac230519c8a1f26f13b83d8b6feb8ce3a48c071f71",
+        "width": 1920,
+        "height": 1080,
+        "format": "png",
+        "family": "faithcheltenham-live-hero-audit",
+        "classification": "use-now",
+        "publicSafe": true
+      },
+      {
+        "assetId": "faithcheltenham-remote-hero-cache-business-development-visual-assets-remote-cache-fantas1a-hero-image-3b68efa403",
+        "sourcePath": "business-development/visual-assets/remote-cache/fantas1a-hero-image.png",
+        "copiedPath": "assets/media/faithcheltenham-remote-hero-cache-business-development-visual-assets-remote-cache-fantas1a-hero-image-3b68efa403.png",
+        "sha256": "3b68efa403cf9d2adaf286c71125d5964c0d55608c2e34852afb622d1b8038af",
+        "width": 1536,
+        "height": 1024,
+        "format": "png",
+        "family": "faithcheltenham-remote-hero-cache",
+        "classification": "use-now",
+        "publicSafe": true
+      },
+      {
+        "assetId": "faithcheltenham-remote-hero-cache-business-development-visual-assets-remote-cache-page-kids-internet-safety-hero-canva-20260527-06-cdfa283c84",
+        "sourcePath": "business-development/visual-assets/remote-cache/page-kids-internet-safety-hero-canva-20260527-063604.png",
+        "copiedPath": "assets/media/faithcheltenham-remote-hero-cache-business-development-visual-assets-remote-cache-page-kids-internet-safety-hero-canva-20260527-06-cdfa283c84.png",
+        "sha256": "cdfa283c843619f97262cf32e4f0a57ed10a13b9751e692435d90204ef98699b",
+        "width": 1920,
+        "height": 1080,
+        "format": "png",
+        "family": "faithcheltenham-remote-hero-cache",
+        "classification": "use-now",
+        "publicSafe": true
+      },
+      {
+        "assetId": "faithcheltenham-remote-hero-cache-business-development-visual-assets-remote-cache-page-team-portal-hero-canva-20260527-063715-aede746a91",
+        "sourcePath": "business-development/visual-assets/remote-cache/page-team-portal-hero-canva-20260527-063715.png",
+        "copiedPath": "assets/media/faithcheltenham-remote-hero-cache-business-development-visual-assets-remote-cache-page-team-portal-hero-canva-20260527-063715-aede746a91.png",
+        "sha256": "aede746a915f08e54538bcdbec2357d685e8a6cb58958d8e10afbc8b0e3efbba",
+        "width": 1920,
+        "height": 1080,
+        "format": "png",
+        "family": "faithcheltenham-remote-hero-cache",
+        "classification": "use-now",
+        "publicSafe": true
+      },
+      {
         "assetId": "fantasia-public-assets-fantasia-assets-diagrams-workflow-overview-3780a956db",
         "sourcePath": "docs/fantasia/assets/diagrams/workflow-overview.svg",
         "copiedPath": "assets/media/fantasia-public-assets-fantasia-assets-diagrams-workflow-overview-3780a956db.svg",
@@ -282,21 +402,9 @@
         "publicSafe": true
       },
       {
-        "assetId": "fve-final-production-import-ready-generated-final-production-pack-import-ready-black2africa-batch-1-layout-49a889bbf4",
-        "sourcePath": "fayth-visual-engine/generated/final-production-pack/import-ready/black2africa__batch-1__layout-preview.png",
-        "copiedPath": "assets/media/fve-final-production-import-ready-generated-final-production-pack-import-ready-black2africa-batch-1-layout-49a889bbf4.png",
-        "sha256": "49a889bbf470c7e3a35af0c2acd7fbb27b5ddc1f34173e06a0b4791ea6257bc6",
-        "width": 1440,
-        "height": 960,
-        "format": "png",
-        "family": "fve-final-production-import-ready",
-        "classification": "use-now",
-        "publicSafe": true
-      },
-      {
-        "assetId": "fve-final-production-import-ready-generated-final-production-pack-import-ready-faithcheltenham-com-quick-3-cfdf618330",
+        "assetId": "fve-final-production-import-ready-generated-final-production-pack-import-ready-faithcheltenham-com-quick-30-layout-preview-cfdf618330",
         "sourcePath": "fayth-visual-engine/generated/final-production-pack/import-ready/faithcheltenham-com__quick-30__layout-preview.png",
-        "copiedPath": "assets/media/fve-final-production-import-ready-generated-final-production-pack-import-ready-faithcheltenham-com-quick-3-cfdf618330.png",
+        "copiedPath": "assets/media/fve-final-production-import-ready-generated-final-production-pack-import-ready-faithcheltenham-com-quick-30-layout-preview-cfdf618330.png",
         "sha256": "cfdf618330ffd6843138fd189c6bf5e551f8cdc7a727888df2f9bd27560a4244",
         "width": 1440,
         "height": 960,
@@ -306,24 +414,12 @@
         "publicSafe": true
       },
       {
-        "assetId": "fve-final-production-import-ready-generated-final-production-pack-import-ready-faithcheltenham-com-reuse-f-b4239d013e",
+        "assetId": "fve-final-production-import-ready-generated-final-production-pack-import-ready-faithcheltenham-com-reuse-faithcheltenham-social-sq-b4239d013e",
         "sourcePath": "fayth-visual-engine/generated/final-production-pack/import-ready/faithcheltenham-com__reuse-faithcheltenham__social-square.png",
-        "copiedPath": "assets/media/fve-final-production-import-ready-generated-final-production-pack-import-ready-faithcheltenham-com-reuse-f-b4239d013e.png",
+        "copiedPath": "assets/media/fve-final-production-import-ready-generated-final-production-pack-import-ready-faithcheltenham-com-reuse-faithcheltenham-social-sq-b4239d013e.png",
         "sha256": "b4239d013ecbacf28cea56064e7a7a53df84362d2134632afc3dc533ff9bf3ad",
         "width": 1200,
         "height": 1200,
-        "format": "png",
-        "family": "fve-final-production-import-ready",
-        "classification": "use-now",
-        "publicSafe": true
-      },
-      {
-        "assetId": "fve-final-production-import-ready-generated-final-production-pack-import-ready-thefayth-batch-1-og-card-672d953abb",
-        "sourcePath": "fayth-visual-engine/generated/final-production-pack/import-ready/thefayth__batch-1__og-card.png",
-        "copiedPath": "assets/media/fve-final-production-import-ready-generated-final-production-pack-import-ready-thefayth-batch-1-og-card-672d953abb.png",
-        "sha256": "672d953abb52142b165230186431fbfb5ff05f7fd7172cddf75323746e76e011",
-        "width": 1200,
-        "height": 630,
         "format": "png",
         "family": "fve-final-production-import-ready",
         "classification": "use-now",
@@ -572,12 +668,12 @@
       {
         "pageKey": "ai-website-visual-cleanup",
         "placement": "offer-card-ai-website-visual-cleanup",
-        "assetId": "fve-final-production-import-ready-generated-final-production-pack-import-ready-faithcheltenham-com-quick-3-cfdf618330",
+        "assetId": "fve-final-production-import-ready-generated-final-production-pack-import-ready-faithcheltenham-com-quick-30-layout-preview-cfdf618330",
         "alt": "Website visual cleanup layout preview.",
         "caption": "Visual cleanup preview.",
         "sourceChip": "reused-final-pack",
         "reasonUsed": "Relevant FaithCheltenham visual output for the website cleanup offer.",
-        "fallbackAssetId": "fve-final-production-import-ready-generated-final-production-pack-import-ready-faithcheltenham-com-reuse-f-5eda3d633e"
+        "fallbackAssetId": "fve-final-production-import-ready-generated-final-production-pack-import-ready-faithcheltenham-com-reuse-faithcheltenham-og-card-5eda3d633e"
       },
       {
         "pageKey": "github-public-surface-packaging",
@@ -592,12 +688,12 @@
       {
         "pageKey": "ai-brand-system-audit",
         "placement": "offer-card-ai-brand-system-audit",
-        "assetId": "fve-final-production-import-ready-generated-final-production-pack-import-ready-faithcheltenham-com-reuse-f-b4239d013e",
+        "assetId": "fve-final-production-import-ready-generated-final-production-pack-import-ready-faithcheltenham-com-reuse-faithcheltenham-social-sq-b4239d013e",
         "alt": "Brand system audit social square visual.",
         "caption": "Brand audit visual.",
         "sourceChip": "reused-final-pack",
         "reasonUsed": "Shows brand-system output without using unrelated or private imagery.",
-        "fallbackAssetId": "fve-final-production-import-ready-generated-final-production-pack-import-ready-thefayth-batch-1-social-squ-2facfee7d4"
+        "fallbackAssetId": "fve-final-production-import-ready-generated-final-production-pack-import-ready-thefayth-batch-1-social-square-2facfee7d4"
       },
       {
         "pageKey": "local-ai-workflow-setup",
@@ -652,62 +748,102 @@
       {
         "pageKey": "index",
         "placement": "work-gallery-1",
-        "assetId": "fantasia-public-assets-fantasia-assets-screenshots-actual-coai-assets-hub-d986d81d6b",
-        "alt": "Fantasia COAI Assets Hub desktop screenshot.",
-        "caption": "Fantasia command surface",
-        "sourceChip": "real-app-screenshot",
-        "reasonUsed": "Gorgeous work sample from the live Fantasia/FVE operating surface.",
-        "fallbackAssetId": "fantasia-public-assets-fantasia-assets-screenshots-actual-desktop-home-50d43dd99e"
+        "assetId": "faithcheltenham-remote-hero-cache-business-development-visual-assets-remote-cache-page-team-portal-hero-canva-20260527-063715-aede746a91",
+        "alt": "Generated Team Portal hero artwork for FaithCheltenham.com.",
+        "caption": "Team Portal hero",
+        "sourceChip": "canva-hero",
+        "reasonUsed": "Faith specifically approved this high-quality generated hero style for the Home showcase.",
+        "fallbackAssetId": "faithcheltenham-live-hero-audit-generated-audits-image-quality-compare-live-home-hero-canva-f4c98bf328"
       },
       {
         "pageKey": "index",
         "placement": "work-gallery-2",
-        "assetId": "fve-public-export-github-public-export-assets-hero-hero-image-d986d81d6b",
-        "alt": "TheFAYTH Visual Empire desktop app hero.",
-        "caption": "TheFAYTH Visual Empire",
-        "sourceChip": "reused-local-fve",
-        "reasonUsed": "Flagship FVE product visual for the selected works gallery.",
-        "fallbackAssetId": "fve-public-export-github-public-export-assets-gallery-gallery-01-50d43dd99e"
+        "assetId": "faithcheltenham-remote-hero-cache-business-development-visual-assets-remote-cache-page-kids-internet-safety-hero-canva-20260527-06-cdfa283c84",
+        "alt": "Generated Kids Internet Safety hero artwork for FaithCheltenham.com.",
+        "caption": "Kids Internet Safety",
+        "sourceChip": "canva-hero",
+        "reasonUsed": "Faith specifically approved this high-quality generated hero style for the Home showcase.",
+        "fallbackAssetId": "childrens-internet-public-heroes-github-public-export-assets-gallery-kidsinternet-home-hero-92b29072cd"
       },
       {
         "pageKey": "index",
         "placement": "work-gallery-3",
-        "assetId": "thefayth-file-type-public-export-github-public-export-assets-hero-hero-image-91abd1e915",
-        "alt": "TheFAYTH File Type proof-object visual.",
-        "caption": "TheFAYTH File Type",
-        "sourceChip": "reused-local-file-type",
-        "reasonUsed": "Shows the proof-object product as a polished public work.",
-        "fallbackAssetId": "thefayth-file-type-public-export-github-public-export-assets-social-social-card-847ba79bba"
+        "assetId": "faithcheltenham-remote-hero-cache-business-development-visual-assets-remote-cache-fantas1a-hero-image-3b68efa403",
+        "alt": "Generated Fantas1a hero artwork from the public GitHub surface.",
+        "caption": "Fantas1a hero",
+        "sourceChip": "github-hero",
+        "reasonUsed": "Faith specifically requested the real Fantas1a hero rather than simple placeholder imagery.",
+        "fallbackAssetId": "fantasia-public-assets-fantasia-assets-screenshots-actual-desktop-home-50d43dd99e"
       },
       {
         "pageKey": "index",
         "placement": "work-gallery-4",
-        "assetId": "fve-final-production-import-ready-generated-final-production-pack-import-ready-faithcheltenham-com-quick-3-cfdf618330",
-        "alt": "FaithCheltenham visual cleanup layout preview.",
-        "caption": "FaithCheltenham visual cleanup",
-        "sourceChip": "reused-final-pack",
-        "reasonUsed": "A visual-system study tied to FaithCheltenham.com cleanup work.",
-        "fallbackAssetId": "fve-final-production-import-ready-generated-final-production-pack-import-ready-faithcheltenham-com-reuse-f-5eda3d633e"
+        "assetId": "faithcheltenham-live-hero-audit-generated-audits-image-quality-compare-live-home-hero-canva-f4c98bf328",
+        "alt": "FaithCheltenham high-quality generated home hero artwork.",
+        "caption": "FaithCheltenham home",
+        "sourceChip": "canva-hero",
+        "reasonUsed": "Keeps the strong current FaithCheltenham hero in the Home showcase instead of replacing a passing image.",
+        "fallbackAssetId": "faithcheltenham-curated-heroes-server-rescue-oceanic-assets-20260515-faith-safe-curated-selected-015-faith-cheltenham-portfolio-5753a5a77a"
       },
       {
         "pageKey": "index",
         "placement": "work-gallery-5",
-        "assetId": "fve-final-production-import-ready-generated-final-production-pack-import-ready-thefayth-batch-1-og-card-672d953abb",
-        "alt": "TheFAYTH public brand card.",
-        "caption": "TheFAYTH brand study",
-        "sourceChip": "reused-final-pack",
-        "reasonUsed": "A polished TheFAYTH work sample for the broader portfolio gallery.",
-        "fallbackAssetId": "fve-final-production-import-ready-generated-final-production-pack-import-ready-thefayth-batch-1-social-squ-2facfee7d4"
+        "assetId": "faithcheltenham-curated-heroes-server-rescue-oceanic-assets-20260515-faith-safe-curated-selected-015-faith-cheltenham-portfolio-5753a5a77a",
+        "alt": "Generated FaithCheltenham portfolio hero artwork.",
+        "caption": "Faith portfolio hero",
+        "sourceChip": "generated-hero",
+        "reasonUsed": "Adds a gorgeous generated local hero from Faith's work rather than a simple card graphic.",
+        "fallbackAssetId": "faithcheltenham-curated-heroes-server-rescue-oceanic-assets-20260515-faith-safe-curated-selected-013-faith-cheltenham-portfolio-3bcfb6b3bd"
       },
       {
         "pageKey": "index",
         "placement": "work-gallery-6",
-        "assetId": "fve-final-production-import-ready-generated-final-production-pack-import-ready-black2africa-batch-1-layout-49a889bbf4",
-        "alt": "Black2Africa public visual system study.",
-        "caption": "Black2Africa visual study",
-        "sourceChip": "public-work-study",
-        "reasonUsed": "Public-safe work sample showing Faith's broader visual system range.",
-        "fallbackAssetId": "fve-final-production-import-ready-generated-final-production-pack-import-ready-black2africa-batch-1-og-car-11503ddb17"
+        "assetId": "faithcheltenham-curated-heroes-server-rescue-oceanic-assets-20260515-faith-safe-curated-selected-035-thankfish-anime-hero-varia-e17f273c35",
+        "alt": "Generated Thank Fish anime hero artwork.",
+        "caption": "Thank Fish hero",
+        "sourceChip": "generated-hero",
+        "reasonUsed": "Shows Faith's broader generated visual direction with a polished hero image.",
+        "fallbackAssetId": "faithcheltenham-curated-heroes-server-rescue-oceanic-assets-20260515-faith-safe-curated-selected-034-thankfish-anime-hero-varia-a72d6838fa"
+      },
+      {
+        "pageKey": "index",
+        "placement": "work-gallery-7",
+        "assetId": "ai-screenwriting-public-heroes-story-arena-microsite-assets-illustrations-canva-editorial-hero-68f6dc2369",
+        "alt": "Generated AI Screenwriting editorial hero artwork.",
+        "caption": "Story Arena editorial",
+        "sourceChip": "canva-hero",
+        "reasonUsed": "Adds a rich generated hero from Faith's AI Screenwriting work.",
+        "fallbackAssetId": ""
+      },
+      {
+        "pageKey": "index",
+        "placement": "work-gallery-8",
+        "assetId": "childrens-internet-public-heroes-github-public-export-assets-gallery-kidsinternet-home-hero-92b29072cd",
+        "alt": "Generated Children's Internet hero artwork.",
+        "caption": "Children's Internet",
+        "sourceChip": "generated-hero",
+        "reasonUsed": "Adds a polished public hero from the Children's Internet project.",
+        "fallbackAssetId": "childrens-internet-public-heroes-github-public-export-assets-hero-home-hero-source-92b29072cd"
+      },
+      {
+        "pageKey": "index",
+        "placement": "work-gallery-9",
+        "assetId": "black2africa-public-heroes-github-public-export-assets-hero-hero-image-4aa716327e",
+        "alt": "Black2Africa public hero artwork.",
+        "caption": "Black2Africa hero",
+        "sourceChip": "public-hero",
+        "reasonUsed": "Uses the real public hero asset rather than a simple layout preview.",
+        "fallbackAssetId": "fve-final-production-import-ready-generated-final-production-pack-import-ready-black2africa-batch-1-og-card-11503ddb17"
+      },
+      {
+        "pageKey": "index",
+        "placement": "work-gallery-10",
+        "assetId": "faithcheltenham-curated-heroes-server-rescue-oceanic-assets-20260515-faith-safe-curated-selected-038-kidsinternet-home-hero-sto-27695d663c",
+        "alt": "Generated Kids Internet storybook hero artwork.",
+        "caption": "Kids Internet storybook",
+        "sourceChip": "generated-hero",
+        "reasonUsed": "Adds a second high-quality local hero from Faith's Kids Internet Safety work.",
+        "fallbackAssetId": "faithcheltenham-curated-heroes-server-rescue-oceanic-assets-20260515-faith-safe-curated-selected-030-kidsinternet-home-hero-ill-ef7fd41180"
       },
       {
         "pageKey": "work-with-faith",
@@ -744,7 +880,7 @@
   },
   "visualGaps": {
     "schemaVersion": "faith.visual-gap-prompts.v1",
-    "generatedAt": "2026-06-29T05:52:26.720867+00:00",
+    "generatedAt": "2026-06-29T08:01:22.352708+00:00",
     "policy": "Reuse approved local assets first. Generate only these confirmed gaps.",
     "gaps": [
       {
@@ -793,14 +929,22 @@
     "README.md",
     "sitemap.xml",
     "robots.txt",
+    "assets/media/ai-screenwriting-public-heroes-story-arena-microsite-assets-illustrations-canva-editorial-hero-68f6dc2369.webp",
+    "assets/media/black2africa-public-heroes-github-public-export-assets-hero-hero-image-4aa716327e.png",
+    "assets/media/childrens-internet-public-heroes-github-public-export-assets-gallery-kidsinternet-home-hero-92b29072cd.webp",
+    "assets/media/faithcheltenham-curated-heroes-server-rescue-oceanic-assets-20260515-faith-safe-curated-selected-015-faith-cheltenham-portfolio-5753a5a77a.webp",
+    "assets/media/faithcheltenham-curated-heroes-server-rescue-oceanic-assets-20260515-faith-safe-curated-selected-035-thankfish-anime-hero-varia-e17f273c35.webp",
+    "assets/media/faithcheltenham-curated-heroes-server-rescue-oceanic-assets-20260515-faith-safe-curated-selected-038-kidsinternet-home-hero-sto-27695d663c.png",
+    "assets/media/faithcheltenham-live-hero-audit-generated-audits-image-quality-compare-live-home-hero-canva-f4c98bf328.png",
+    "assets/media/faithcheltenham-remote-hero-cache-business-development-visual-assets-remote-cache-fantas1a-hero-image-3b68efa403.png",
+    "assets/media/faithcheltenham-remote-hero-cache-business-development-visual-assets-remote-cache-page-kids-internet-safety-hero-canva-20260527-06-cdfa283c84.png",
+    "assets/media/faithcheltenham-remote-hero-cache-business-development-visual-assets-remote-cache-page-team-portal-hero-canva-20260527-063715-aede746a91.png",
     "assets/media/fantasia-public-assets-fantasia-assets-diagrams-workflow-overview-3780a956db.svg",
     "assets/media/fantasia-public-assets-fantasia-assets-screenshots-actual-coai-assets-hub-d986d81d6b.png",
     "assets/media/fantasia-public-assets-fantasia-assets-screenshots-actual-desktop-home-50d43dd99e.png",
     "assets/media/fantasia-public-assets-fantasia-assets-social-social-preview-card-1a17d21274.svg",
-    "assets/media/fve-final-production-import-ready-generated-final-production-pack-import-ready-black2africa-batch-1-layout-49a889bbf4.png",
-    "assets/media/fve-final-production-import-ready-generated-final-production-pack-import-ready-faithcheltenham-com-quick-3-cfdf618330.png",
-    "assets/media/fve-final-production-import-ready-generated-final-production-pack-import-ready-faithcheltenham-com-reuse-f-b4239d013e.png",
-    "assets/media/fve-final-production-import-ready-generated-final-production-pack-import-ready-thefayth-batch-1-og-card-672d953abb.png",
+    "assets/media/fve-final-production-import-ready-generated-final-production-pack-import-ready-faithcheltenham-com-quick-30-layout-preview-cfdf618330.png",
+    "assets/media/fve-final-production-import-ready-generated-final-production-pack-import-ready-faithcheltenham-com-reuse-faithcheltenham-social-sq-b4239d013e.png",
     "assets/media/fve-public-export-github-public-export-assets-banners-github-banner-456f0df3bf.png",
     "assets/media/fve-public-export-github-public-export-assets-diagrams-public-private-boundary-c2eb240c50.svg",
     "assets/media/fve-public-export-github-public-export-assets-diagrams-workflow-overview-22dd980395.svg",
