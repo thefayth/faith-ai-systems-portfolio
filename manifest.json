@@ -1,6 +1,6 @@
 {
   "schemaVersion": "faith.promo-microsite.v1",
-  "generatedAt": "2026-06-29T05:33:58.025872+00:00",
+  "generatedAt": "2026-06-29T05:53:57.947602+00:00",
   "liveWrites": false,
   "networkWrites": false,
   "baseUrl": "https://thefayth.github.io/faith-ai-systems-portfolio/",
@@ -282,6 +282,18 @@
         "publicSafe": true
       },
       {
+        "assetId": "fve-final-production-import-ready-generated-final-production-pack-import-ready-black2africa-batch-1-layout-49a889bbf4",
+        "sourcePath": "fayth-visual-engine/generated/final-production-pack/import-ready/black2africa__batch-1__layout-preview.png",
+        "copiedPath": "assets/media/fve-final-production-import-ready-generated-final-production-pack-import-ready-black2africa-batch-1-layout-49a889bbf4.png",
+        "sha256": "49a889bbf470c7e3a35af0c2acd7fbb27b5ddc1f34173e06a0b4791ea6257bc6",
+        "width": 1440,
+        "height": 960,
+        "format": "png",
+        "family": "fve-final-production-import-ready",
+        "classification": "use-now",
+        "publicSafe": true
+      },
+      {
         "assetId": "fve-final-production-import-ready-generated-final-production-pack-import-ready-faithcheltenham-com-quick-3-cfdf618330",
         "sourcePath": "fayth-visual-engine/generated/final-production-pack/import-ready/faithcheltenham-com__quick-30__layout-preview.png",
         "copiedPath": "assets/media/fve-final-production-import-ready-generated-final-production-pack-import-ready-faithcheltenham-com-quick-3-cfdf618330.png",
@@ -300,6 +312,18 @@
         "sha256": "b4239d013ecbacf28cea56064e7a7a53df84362d2134632afc3dc533ff9bf3ad",
         "width": 1200,
         "height": 1200,
+        "format": "png",
+        "family": "fve-final-production-import-ready",
+        "classification": "use-now",
+        "publicSafe": true
+      },
+      {
+        "assetId": "fve-final-production-import-ready-generated-final-production-pack-import-ready-thefayth-batch-1-og-card-672d953abb",
+        "sourcePath": "fayth-visual-engine/generated/final-production-pack/import-ready/thefayth__batch-1__og-card.png",
+        "copiedPath": "assets/media/fve-final-production-import-ready-generated-final-production-pack-import-ready-thefayth-batch-1-og-card-672d953abb.png",
+        "sha256": "672d953abb52142b165230186431fbfb5ff05f7fd7172cddf75323746e76e011",
+        "width": 1200,
+        "height": 630,
         "format": "png",
         "family": "fve-final-production-import-ready",
         "classification": "use-now",
@@ -624,13 +648,103 @@
         "sourceChip": "reused-local-fantasia",
         "reasonUsed": "A share card fits a packet intended for forwarding.",
         "fallbackAssetId": "fve-public-export-github-public-export-assets-social-social-card-25907aff37"
+      },
+      {
+        "pageKey": "index",
+        "placement": "work-gallery-1",
+        "assetId": "fantasia-public-assets-fantasia-assets-screenshots-actual-coai-assets-hub-d986d81d6b",
+        "alt": "Fantasia COAI Assets Hub desktop screenshot.",
+        "caption": "Fantasia command surface",
+        "sourceChip": "real-app-screenshot",
+        "reasonUsed": "Gorgeous work sample from the live Fantasia/FVE operating surface.",
+        "fallbackAssetId": "fantasia-public-assets-fantasia-assets-screenshots-actual-desktop-home-50d43dd99e"
+      },
+      {
+        "pageKey": "index",
+        "placement": "work-gallery-2",
+        "assetId": "fve-public-export-github-public-export-assets-hero-hero-image-d986d81d6b",
+        "alt": "TheFAYTH Visual Empire desktop app hero.",
+        "caption": "TheFAYTH Visual Empire",
+        "sourceChip": "reused-local-fve",
+        "reasonUsed": "Flagship FVE product visual for the selected works gallery.",
+        "fallbackAssetId": "fve-public-export-github-public-export-assets-gallery-gallery-01-50d43dd99e"
+      },
+      {
+        "pageKey": "index",
+        "placement": "work-gallery-3",
+        "assetId": "thefayth-file-type-public-export-github-public-export-assets-hero-hero-image-91abd1e915",
+        "alt": "TheFAYTH File Type proof-object visual.",
+        "caption": "TheFAYTH File Type",
+        "sourceChip": "reused-local-file-type",
+        "reasonUsed": "Shows the proof-object product as a polished public work.",
+        "fallbackAssetId": "thefayth-file-type-public-export-github-public-export-assets-social-social-card-847ba79bba"
+      },
+      {
+        "pageKey": "index",
+        "placement": "work-gallery-4",
+        "assetId": "fve-final-production-import-ready-generated-final-production-pack-import-ready-faithcheltenham-com-quick-3-cfdf618330",
+        "alt": "FaithCheltenham visual cleanup layout preview.",
+        "caption": "FaithCheltenham visual cleanup",
+        "sourceChip": "reused-final-pack",
+        "reasonUsed": "A visual-system study tied to FaithCheltenham.com cleanup work.",
+        "fallbackAssetId": "fve-final-production-import-ready-generated-final-production-pack-import-ready-faithcheltenham-com-reuse-f-5eda3d633e"
+      },
+      {
+        "pageKey": "index",
+        "placement": "work-gallery-5",
+        "assetId": "fve-final-production-import-ready-generated-final-production-pack-import-ready-thefayth-batch-1-og-card-672d953abb",
+        "alt": "TheFAYTH public brand card.",
+        "caption": "TheFAYTH brand study",
+        "sourceChip": "reused-final-pack",
+        "reasonUsed": "A polished TheFAYTH work sample for the broader portfolio gallery.",
+        "fallbackAssetId": "fve-final-production-import-ready-generated-final-production-pack-import-ready-thefayth-batch-1-social-squ-2facfee7d4"
+      },
+      {
+        "pageKey": "index",
+        "placement": "work-gallery-6",
+        "assetId": "fve-final-production-import-ready-generated-final-production-pack-import-ready-black2africa-batch-1-layout-49a889bbf4",
+        "alt": "Black2Africa public visual system study.",
+        "caption": "Black2Africa visual study",
+        "sourceChip": "public-work-study",
+        "reasonUsed": "Public-safe work sample showing Faith's broader visual system range.",
+        "fallbackAssetId": "fve-final-production-import-ready-generated-final-production-pack-import-ready-black2africa-batch-1-og-car-11503ddb17"
+      },
+      {
+        "pageKey": "work-with-faith",
+        "placement": "work-gallery-1",
+        "assetId": "fantasia-public-assets-fantasia-assets-screenshots-actual-coai-assets-hub-d986d81d6b",
+        "alt": "Fantasia COAI Assets Hub desktop screenshot.",
+        "caption": "Fantasia command surface",
+        "sourceChip": "real-app-screenshot",
+        "reasonUsed": "Commercial proof image for hiring Faith.",
+        "fallbackAssetId": "fantasia-public-assets-fantasia-assets-screenshots-actual-desktop-home-50d43dd99e"
+      },
+      {
+        "pageKey": "work-with-faith",
+        "placement": "work-gallery-2",
+        "assetId": "fve-public-export-github-public-export-assets-hero-hero-image-d986d81d6b",
+        "alt": "TheFAYTH Visual Empire desktop app hero.",
+        "caption": "TheFAYTH Visual Empire",
+        "sourceChip": "reused-local-fve",
+        "reasonUsed": "Commercial proof image for hiring Faith.",
+        "fallbackAssetId": "fve-public-export-github-public-export-assets-gallery-gallery-01-50d43dd99e"
+      },
+      {
+        "pageKey": "work-with-faith",
+        "placement": "work-gallery-3",
+        "assetId": "thefayth-file-type-public-export-github-public-export-assets-hero-hero-image-91abd1e915",
+        "alt": "TheFAYTH File Type proof-object visual.",
+        "caption": "TheFAYTH File Type",
+        "sourceChip": "reused-local-file-type",
+        "reasonUsed": "Commercial proof image for hiring Faith.",
+        "fallbackAssetId": "thefayth-file-type-public-export-github-public-export-assets-social-social-card-847ba79bba"
       }
     ],
     "blockers": []
   },
   "visualGaps": {
     "schemaVersion": "faith.visual-gap-prompts.v1",
-    "generatedAt": "2026-06-29T05:27:21.021099+00:00",
+    "generatedAt": "2026-06-29T05:52:26.720867+00:00",
     "policy": "Reuse approved local assets first. Generate only these confirmed gaps.",
     "gaps": [
       {
@@ -664,10 +778,10 @@
       "label": "Faith AI Systems public-safe prospect packet",
       "path": "downloads/faith-ai-systems-prospect-pack.zip",
       "url": "https://thefayth.github.io/faith-ai-systems-portfolio/downloads/faith-ai-systems-prospect-pack.zip",
-      "bytes": 1862723,
-      "sha256": "f9902eed6b519787ff141efdfde3a8e137b17942a7ce713130fe9c1af2589e5d",
-      "sourceZip": "business-development/prospect-packet/generated/faith-ai-systems-prospect-pack-20260629-053335.zip",
-      "sourceZipSha256": "f9902eed6b519787ff141efdfde3a8e137b17942a7ce713130fe9c1af2589e5d",
+      "bytes": 2292345,
+      "sha256": "739fc6465e65d6db9728c2d9850704cc5a3f4abb8a4807357c4b8d0d473cd516",
+      "sourceZip": "business-development/prospect-packet/generated/faith-ai-systems-prospect-pack-20260629-055326.zip",
+      "sourceZipSha256": "739fc6465e65d6db9728c2d9850704cc5a3f4abb8a4807357c4b8d0d473cd516",
       "sourceReceipt": "business-development/prospect-packet/prospect-packet.json",
       "visibility": "public-safe-prospect-packet"
     }
@@ -683,8 +797,10 @@
     "assets/media/fantasia-public-assets-fantasia-assets-screenshots-actual-coai-assets-hub-d986d81d6b.png",
     "assets/media/fantasia-public-assets-fantasia-assets-screenshots-actual-desktop-home-50d43dd99e.png",
     "assets/media/fantasia-public-assets-fantasia-assets-social-social-preview-card-1a17d21274.svg",
+    "assets/media/fve-final-production-import-ready-generated-final-production-pack-import-ready-black2africa-batch-1-layout-49a889bbf4.png",
     "assets/media/fve-final-production-import-ready-generated-final-production-pack-import-ready-faithcheltenham-com-quick-3-cfdf618330.png",
     "assets/media/fve-final-production-import-ready-generated-final-production-pack-import-ready-faithcheltenham-com-reuse-f-b4239d013e.png",
+    "assets/media/fve-final-production-import-ready-generated-final-production-pack-import-ready-thefayth-batch-1-og-card-672d953abb.png",
     "assets/media/fve-public-export-github-public-export-assets-banners-github-banner-456f0df3bf.png",
     "assets/media/fve-public-export-github-public-export-assets-diagrams-public-private-boundary-c2eb240c50.svg",
     "assets/media/fve-public-export-github-public-export-assets-diagrams-workflow-overview-22dd980395.svg",
