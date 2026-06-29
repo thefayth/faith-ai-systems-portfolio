@@ -1,6 +1,6 @@
 {
   "schemaVersion": "faith.promo-microsite.v1",
-  "generatedAt": "2026-06-29T08:01:29.001704+00:00",
+  "generatedAt": "2026-06-29T08:08:21.858998+00:00",
   "liveWrites": false,
   "networkWrites": false,
   "baseUrl": "https://thefayth.github.io/faith-ai-systems-portfolio/",
@@ -234,10 +234,46 @@
     "pageVisualMap": "business-development/visual-assets/page-visual-map.json",
     "selectedAssets": [
       {
+        "assetId": "ai-screenwriting-public-heroes-story-arena-microsite-assets-illustrations-canva-editorial-awards-285d0f05c9",
+        "sourcePath": "C:/Users/faith/Documents/_X/_2023-2024_XXYYZZ/_Projects/_AI_SCREENWRITING/wordpress/story-arena-microsite/assets/illustrations/canva-editorial-awards.webp",
+        "copiedPath": "assets/media/ai-screenwriting-public-heroes-story-arena-microsite-assets-illustrations-canva-editorial-awards-285d0f05c9.webp",
+        "sha256": "285d0f05c907cb853cf550358d14e0ab2a7f386ab20cdf0fab9367019521723b",
+        "width": 1800,
+        "height": 1125,
+        "format": "webp",
+        "family": "ai-screenwriting-public-heroes",
+        "classification": "use-now",
+        "publicSafe": true
+      },
+      {
         "assetId": "ai-screenwriting-public-heroes-story-arena-microsite-assets-illustrations-canva-editorial-hero-68f6dc2369",
         "sourcePath": "C:/Users/faith/Documents/_X/_2023-2024_XXYYZZ/_Projects/_AI_SCREENWRITING/wordpress/story-arena-microsite/assets/illustrations/canva-editorial-hero.webp",
         "copiedPath": "assets/media/ai-screenwriting-public-heroes-story-arena-microsite-assets-illustrations-canva-editorial-hero-68f6dc2369.webp",
         "sha256": "68f6dc236982ca51334b2de3fd845604bca9d05f9f5d2cc99250d13533976144",
+        "width": 1800,
+        "height": 1125,
+        "format": "webp",
+        "family": "ai-screenwriting-public-heroes",
+        "classification": "use-now",
+        "publicSafe": true
+      },
+      {
+        "assetId": "ai-screenwriting-public-heroes-story-arena-microsite-assets-illustrations-canva-editorial-poster-lab-cc0f475134",
+        "sourcePath": "C:/Users/faith/Documents/_X/_2023-2024_XXYYZZ/_Projects/_AI_SCREENWRITING/wordpress/story-arena-microsite/assets/illustrations/canva-editorial-poster-lab.webp",
+        "copiedPath": "assets/media/ai-screenwriting-public-heroes-story-arena-microsite-assets-illustrations-canva-editorial-poster-lab-cc0f475134.webp",
+        "sha256": "cc0f47513457ba90efdaa075d8187fc10039dfa5ac40c288ba169d784b460221",
+        "width": 1800,
+        "height": 1125,
+        "format": "webp",
+        "family": "ai-screenwriting-public-heroes",
+        "classification": "use-now",
+        "publicSafe": true
+      },
+      {
+        "assetId": "ai-screenwriting-public-heroes-story-arena-microsite-assets-illustrations-canva-editorial-vault-5b94699c36",
+        "sourcePath": "C:/Users/faith/Documents/_X/_2023-2024_XXYYZZ/_Projects/_AI_SCREENWRITING/wordpress/story-arena-microsite/assets/illustrations/canva-editorial-vault.webp",
+        "copiedPath": "assets/media/ai-screenwriting-public-heroes-story-arena-microsite-assets-illustrations-canva-editorial-vault-5b94699c36.webp",
+        "sha256": "5b94699c36e2d36f29f4aeea59b9086ffebd4d919877d1343f4ea437c31c538a",
         "width": 1800,
         "height": 1125,
         "format": "webp",
@@ -270,6 +306,18 @@
         "publicSafe": true
       },
       {
+        "assetId": "faithcheltenham-curated-heroes-server-rescue-oceanic-assets-20260515-faith-safe-curated-selected-013-faith-cheltenham-portfolio-3bcfb6b3bd",
+        "sourcePath": "C:/Users/faith/Documents/_X/_2023-2024_XXYYZZ/_Projects/_FaithCheltenhamSite/server-rescue/oceanic-assets-20260515-faith-safe-curated/selected/013-faith-cheltenham-portfolio-hero-variant-2-20260401-071205-3bcfb6b3bd.webp",
+        "copiedPath": "assets/media/faithcheltenham-curated-heroes-server-rescue-oceanic-assets-20260515-faith-safe-curated-selected-013-faith-cheltenham-portfolio-3bcfb6b3bd.webp",
+        "sha256": "3bcfb6b3bde7253d22fd999d782e665aee2b86f70e797e9d7e1a0b896fdc7430",
+        "width": 1536,
+        "height": 1024,
+        "format": "webp",
+        "family": "faithcheltenham-curated-heroes",
+        "classification": "use-now",
+        "publicSafe": true
+      },
+      {
         "assetId": "faithcheltenham-curated-heroes-server-rescue-oceanic-assets-20260515-faith-safe-curated-selected-015-faith-cheltenham-portfolio-5753a5a77a",
         "sourcePath": "C:/Users/faith/Documents/_X/_2023-2024_XXYYZZ/_Projects/_FaithCheltenhamSite/server-rescue/oceanic-assets-20260515-faith-safe-curated/selected/015-faith-cheltenham-portfolio-hero-variant-3-20260401-071257-5753a5a77a.webp",
         "copiedPath": "assets/media/faithcheltenham-curated-heroes-server-rescue-oceanic-assets-20260515-faith-safe-curated-selected-015-faith-cheltenham-portfolio-5753a5a77a.webp",
@@ -282,38 +330,14 @@
         "publicSafe": true
       },
       {
-        "assetId": "faithcheltenham-curated-heroes-server-rescue-oceanic-assets-20260515-faith-safe-curated-selected-035-thankfish-anime-hero-varia-e17f273c35",
-        "sourcePath": "C:/Users/faith/Documents/_X/_2023-2024_XXYYZZ/_Projects/_FaithCheltenhamSite/server-rescue/oceanic-assets-20260515-faith-safe-curated/selected/035-thankfish-anime-hero-variant-4-20260403-023303-e17f273c35.webp",
-        "copiedPath": "assets/media/faithcheltenham-curated-heroes-server-rescue-oceanic-assets-20260515-faith-safe-curated-selected-035-thankfish-anime-hero-varia-e17f273c35.webp",
-        "sha256": "e17f273c3565d9ae27ed853ea0621c28048ec554e110e23c4509f219468e199e",
+        "assetId": "faithcheltenham-curated-heroes-server-rescue-oceanic-assets-20260515-faith-safe-curated-selected-034-thankfish-anime-hero-varia-a72d6838fa",
+        "sourcePath": "C:/Users/faith/Documents/_X/_2023-2024_XXYYZZ/_Projects/_FaithCheltenhamSite/server-rescue/oceanic-assets-20260515-faith-safe-curated/selected/034-thankfish-anime-hero-variant-3-20260403-023209-a72d6838fa.webp",
+        "copiedPath": "assets/media/faithcheltenham-curated-heroes-server-rescue-oceanic-assets-20260515-faith-safe-curated-selected-034-thankfish-anime-hero-varia-a72d6838fa.webp",
+        "sha256": "a72d6838fa52b6d35c660334d94d2559ed02da61bd5b742ec7c5aa0c7969ff10",
         "width": 1536,
         "height": 1024,
         "format": "webp",
         "family": "faithcheltenham-curated-heroes",
-        "classification": "use-now",
-        "publicSafe": true
-      },
-      {
-        "assetId": "faithcheltenham-curated-heroes-server-rescue-oceanic-assets-20260515-faith-safe-curated-selected-038-kidsinternet-home-hero-sto-27695d663c",
-        "sourcePath": "C:/Users/faith/Documents/_X/_2023-2024_XXYYZZ/_Projects/_FaithCheltenhamSite/server-rescue/oceanic-assets-20260515-faith-safe-curated/selected/038-kidsinternet-home-hero-storybook-01-27695d663c.png",
-        "copiedPath": "assets/media/faithcheltenham-curated-heroes-server-rescue-oceanic-assets-20260515-faith-safe-curated-selected-038-kidsinternet-home-hero-sto-27695d663c.png",
-        "sha256": "27695d663c5de650090d9394fe6282693779127008dcb166872b729ea7a9e06b",
-        "width": 1024,
-        "height": 1536,
-        "format": "png",
-        "family": "faithcheltenham-curated-heroes",
-        "classification": "use-now",
-        "publicSafe": true
-      },
-      {
-        "assetId": "faithcheltenham-live-hero-audit-generated-audits-image-quality-compare-live-home-hero-canva-f4c98bf328",
-        "sourcePath": "fayth-visual-engine/generated/audits/image-quality-compare/live-home-hero-canva.png",
-        "copiedPath": "assets/media/faithcheltenham-live-hero-audit-generated-audits-image-quality-compare-live-home-hero-canva-f4c98bf328.png",
-        "sha256": "f4c98bf3288c748e6be19dac230519c8a1f26f13b83d8b6feb8ce3a48c071f71",
-        "width": 1920,
-        "height": 1080,
-        "format": "png",
-        "family": "faithcheltenham-live-hero-audit",
         "classification": "use-now",
         "publicSafe": true
       },
@@ -778,12 +802,12 @@
       {
         "pageKey": "index",
         "placement": "work-gallery-4",
-        "assetId": "faithcheltenham-live-hero-audit-generated-audits-image-quality-compare-live-home-hero-canva-f4c98bf328",
-        "alt": "FaithCheltenham high-quality generated home hero artwork.",
-        "caption": "FaithCheltenham home",
-        "sourceChip": "canva-hero",
-        "reasonUsed": "Keeps the strong current FaithCheltenham hero in the Home showcase instead of replacing a passing image.",
-        "fallbackAssetId": "faithcheltenham-curated-heroes-server-rescue-oceanic-assets-20260515-faith-safe-curated-selected-015-faith-cheltenham-portfolio-5753a5a77a"
+        "assetId": "faithcheltenham-curated-heroes-server-rescue-oceanic-assets-20260515-faith-safe-curated-selected-013-faith-cheltenham-portfolio-3bcfb6b3bd",
+        "alt": "Generated FaithCheltenham studio and systems hero artwork.",
+        "caption": "Faith studio systems",
+        "sourceChip": "generated-hero",
+        "reasonUsed": "Uses a rich generated FaithCheltenham hero instead of a simple abstract layout image.",
+        "fallbackAssetId": ""
       },
       {
         "pageKey": "index",
@@ -798,12 +822,12 @@
       {
         "pageKey": "index",
         "placement": "work-gallery-6",
-        "assetId": "faithcheltenham-curated-heroes-server-rescue-oceanic-assets-20260515-faith-safe-curated-selected-035-thankfish-anime-hero-varia-e17f273c35",
+        "assetId": "faithcheltenham-curated-heroes-server-rescue-oceanic-assets-20260515-faith-safe-curated-selected-034-thankfish-anime-hero-varia-a72d6838fa",
         "alt": "Generated Thank Fish anime hero artwork.",
         "caption": "Thank Fish hero",
         "sourceChip": "generated-hero",
         "reasonUsed": "Shows Faith's broader generated visual direction with a polished hero image.",
-        "fallbackAssetId": "faithcheltenham-curated-heroes-server-rescue-oceanic-assets-20260515-faith-safe-curated-selected-034-thankfish-anime-hero-varia-a72d6838fa"
+        "fallbackAssetId": "faithcheltenham-curated-heroes-server-rescue-oceanic-assets-20260515-faith-safe-curated-selected-032-thankfish-anime-hero-varia-3de6a8c48a"
       },
       {
         "pageKey": "index",
@@ -838,12 +862,32 @@
       {
         "pageKey": "index",
         "placement": "work-gallery-10",
-        "assetId": "faithcheltenham-curated-heroes-server-rescue-oceanic-assets-20260515-faith-safe-curated-selected-038-kidsinternet-home-hero-sto-27695d663c",
-        "alt": "Generated Kids Internet storybook hero artwork.",
-        "caption": "Kids Internet storybook",
-        "sourceChip": "generated-hero",
-        "reasonUsed": "Adds a second high-quality local hero from Faith's Kids Internet Safety work.",
-        "fallbackAssetId": "faithcheltenham-curated-heroes-server-rescue-oceanic-assets-20260515-faith-safe-curated-selected-030-kidsinternet-home-hero-ill-ef7fd41180"
+        "assetId": "ai-screenwriting-public-heroes-story-arena-microsite-assets-illustrations-canva-editorial-vault-5b94699c36",
+        "alt": "Generated Story Arena vault hero artwork.",
+        "caption": "Story Arena vault",
+        "sourceChip": "canva-hero",
+        "reasonUsed": "Replaces a repeated Kids Internet image with a distinct high-quality Story Arena hero.",
+        "fallbackAssetId": "ai-screenwriting-public-heroes-story-arena-microsite-assets-illustrations-canva-editorial-ip-center-4e2d71ab94"
+      },
+      {
+        "pageKey": "index",
+        "placement": "work-gallery-11",
+        "assetId": "ai-screenwriting-public-heroes-story-arena-microsite-assets-illustrations-canva-editorial-poster-lab-cc0f475134",
+        "alt": "Generated Story Arena poster lab hero artwork.",
+        "caption": "Poster lab",
+        "sourceChip": "canva-hero",
+        "reasonUsed": "Adds another gorgeous generated hero from Faith's AI Screenwriting work.",
+        "fallbackAssetId": "ai-screenwriting-public-heroes-story-arena-microsite-assets-illustrations-canva-editorial-social-preview-8690ade76d"
+      },
+      {
+        "pageKey": "index",
+        "placement": "work-gallery-12",
+        "assetId": "ai-screenwriting-public-heroes-story-arena-microsite-assets-illustrations-canva-editorial-awards-285d0f05c9",
+        "alt": "Generated Story Arena awards hero artwork.",
+        "caption": "Awards room",
+        "sourceChip": "canva-hero",
+        "reasonUsed": "Adds a high-quality generated image from Faith's work instead of a simple diagram.",
+        "fallbackAssetId": "ai-screenwriting-public-heroes-story-arena-microsite-assets-illustrations-canva-editorial-rules-3c5cbed780"
       },
       {
         "pageKey": "work-with-faith",
@@ -880,7 +924,7 @@
   },
   "visualGaps": {
     "schemaVersion": "faith.visual-gap-prompts.v1",
-    "generatedAt": "2026-06-29T08:01:22.352708+00:00",
+    "generatedAt": "2026-06-29T08:08:21.316873+00:00",
     "policy": "Reuse approved local assets first. Generate only these confirmed gaps.",
     "gaps": [
       {
@@ -929,13 +973,15 @@
     "README.md",
     "sitemap.xml",
     "robots.txt",
+    "assets/media/ai-screenwriting-public-heroes-story-arena-microsite-assets-illustrations-canva-editorial-awards-285d0f05c9.webp",
     "assets/media/ai-screenwriting-public-heroes-story-arena-microsite-assets-illustrations-canva-editorial-hero-68f6dc2369.webp",
+    "assets/media/ai-screenwriting-public-heroes-story-arena-microsite-assets-illustrations-canva-editorial-poster-lab-cc0f475134.webp",
+    "assets/media/ai-screenwriting-public-heroes-story-arena-microsite-assets-illustrations-canva-editorial-vault-5b94699c36.webp",
     "assets/media/black2africa-public-heroes-github-public-export-assets-hero-hero-image-4aa716327e.png",
     "assets/media/childrens-internet-public-heroes-github-public-export-assets-gallery-kidsinternet-home-hero-92b29072cd.webp",
+    "assets/media/faithcheltenham-curated-heroes-server-rescue-oceanic-assets-20260515-faith-safe-curated-selected-013-faith-cheltenham-portfolio-3bcfb6b3bd.webp",
     "assets/media/faithcheltenham-curated-heroes-server-rescue-oceanic-assets-20260515-faith-safe-curated-selected-015-faith-cheltenham-portfolio-5753a5a77a.webp",
-    "assets/media/faithcheltenham-curated-heroes-server-rescue-oceanic-assets-20260515-faith-safe-curated-selected-035-thankfish-anime-hero-varia-e17f273c35.webp",
-    "assets/media/faithcheltenham-curated-heroes-server-rescue-oceanic-assets-20260515-faith-safe-curated-selected-038-kidsinternet-home-hero-sto-27695d663c.png",
-    "assets/media/faithcheltenham-live-hero-audit-generated-audits-image-quality-compare-live-home-hero-canva-f4c98bf328.png",
+    "assets/media/faithcheltenham-curated-heroes-server-rescue-oceanic-assets-20260515-faith-safe-curated-selected-034-thankfish-anime-hero-varia-a72d6838fa.webp",
     "assets/media/faithcheltenham-remote-hero-cache-business-development-visual-assets-remote-cache-fantas1a-hero-image-3b68efa403.png",
     "assets/media/faithcheltenham-remote-hero-cache-business-development-visual-assets-remote-cache-page-kids-internet-safety-hero-canva-20260527-06-cdfa283c84.png",
     "assets/media/faithcheltenham-remote-hero-cache-business-development-visual-assets-remote-cache-page-team-portal-hero-canva-20260527-063715-aede746a91.png",
