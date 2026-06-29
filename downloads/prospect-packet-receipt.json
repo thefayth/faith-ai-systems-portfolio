@@ -1,6 +1,6 @@
 {
   "schemaVersion": "faith.promo-microsite.download-receipt.v1",
-  "generatedAt": "2026-06-29T03:00:07.104229+00:00",
+  "generatedAt": "2026-06-29T03:05:02.536378+00:00",
   "liveWrites": false,
   "networkWrites": false,
   "downloads": [
@@ -8,10 +8,10 @@
       "label": "Faith AI Systems public-safe prospect packet",
       "path": "downloads/faith-ai-systems-prospect-pack.zip",
       "url": "https://thefayth.github.io/faith-ai-systems-portfolio/downloads/faith-ai-systems-prospect-pack.zip",
-      "bytes": 134393,
-      "sha256": "b25df0311579eef921f8ec4f7256fec61fc87c237bb3d9aa1289415605707aaa",
-      "sourceZip": "business-development/prospect-packet/generated/faith-ai-systems-prospect-pack-20260629-025955.zip",
-      "sourceZipSha256": "b25df0311579eef921f8ec4f7256fec61fc87c237bb3d9aa1289415605707aaa",
+      "bytes": 142470,
+      "sha256": "e8f8b32e9539fbb83e0be180a24fb5238986ae96a9653cc44c527f62cb843962",
+      "sourceZip": "business-development/prospect-packet/generated/faith-ai-systems-prospect-pack-20260629-030449.zip",
+      "sourceZipSha256": "e8f8b32e9539fbb83e0be180a24fb5238986ae96a9653cc44c527f62cb843962",
       "sourceReceipt": "business-development/prospect-packet/prospect-packet.json",
       "visibility": "public-safe-prospect-packet"
     }
